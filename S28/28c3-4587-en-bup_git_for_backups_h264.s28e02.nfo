@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>bup: Git for backups</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>2</episode>
+  <plot>bup is short for "backup". bup uses the file format of the distributed version control system Git. It solves Git's problems with big files. Deduplication is used to make backups space efficent (about five times smaller than rsnapshot's backups). Data is deduplicated globally across files and backups. If a small part of a big file is changed only little additional space is needed.</plot>
+  <actor>
+    <name>Zoran Zaric</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3370-128x128.png</thumb>
+  </actor>
+</episodedetails>

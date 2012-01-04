@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>TRESOR: Festplatten sicher verschlüsseln</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>79</episode>
+  <plot>Herkömmliche Festplattenverschlüsselungen legen notwendige Schlüssel im RAM ab. Dadurch sind sie schutzlos Angriffen wie Cold-Boot Attacken ausgeliefert, die auf den Arbeitsspeicher abzielen. TRESOR bietet Schutz gegen solche Angriffe.</plot>
+  <actor>
+    <name>tilo</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3607-128x128.png</thumb>
+  </actor>
+</episodedetails>

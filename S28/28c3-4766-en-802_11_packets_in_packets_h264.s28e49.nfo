@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>802.11 Packets in Packets</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>49</episode>
+  <plot>New to 2011, Packet-in-Packet exploits allow for injection of raw radio frames into remote wireless networks. In these exploits, an attacker crafts a string that when transmitted over the air creates the symbols of a complete and valid radio packet. When radio interference damages the beginning of the outer packet, the receiver is tricked into seeing only the inner packet, allowing a frame to be remotely injected. The attacker requires no radio, and injection occurs without a software or hardware bug.</plot>
+  <actor>
+    <name>Travis Goodspeed</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-1978-128x128.png</thumb>
+  </actor>
+</episodedetails>

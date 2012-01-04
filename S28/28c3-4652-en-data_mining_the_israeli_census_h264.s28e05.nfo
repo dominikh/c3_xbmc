@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Data Mining the Israeli Census</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>5</episode>
+  <plot>The entire Israeli civil registry database has been leaked to the internet several times over the past decade.
+In this talk, we examine interesting data that can be mined and extracted from such database.
+Additionally, we will review the implications of such data being publicly available in light of the upcoming biometric database.</plot>
+  <actor>
+    <name>Yuval Adam</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3428-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>BuggedPlanet</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>94</episode>
+  <plot>BuggedPlanet.Info is a small Wiki that tries to list and track down the activities of the surveillance industry in the fields of "Lawful Interception", Signals Intelligence (SIGINT), Communications Intelligence (COMINT) and related fields to gain access to data from telecommunication systems. In this talk I want to explain the idea behind the project and also discuss some observations made between industrial activites and governmental actings.</plot>
+  <actor>
+    <name>Andy Müller-Maguhn</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-45-128x128.png</thumb>
+  </actor>
+</episodedetails>

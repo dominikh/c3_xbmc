@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Building a Distributed Satellite Ground Station Network - A Call To Arms</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>17</episode>
+  <plot>As proposed by Nick Farr et al at CCCamp11, we - the hacker community - are in desperate need for our own communication infrastructure.  So here we are, answering the call for the Hacker Space Program with our proposal of a distributed satellite communications ground station network.  An affordable way to bring satellite communications to a hackerspace near you.
+We're proposing a multi-step approach to work towards this goal by setting up a distributed network of ground stations which will ensure a 24/7 communication window - first tracking, then communicating with satellites.
+The current state of a proof of concept implementation will be presented.</plot>
+  <actor>
+    <name>Andreas -horn- Hornig</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3620-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>hadez</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3087-128x128.png</thumb>
+  </actor>
+</episodedetails>

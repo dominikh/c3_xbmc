@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Time is on my Side</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>3</episode>
+  <plot>Timing side channel attacks are non-intrusive attacks that are still widely ignored in day-to-day penetration testing, although they allow attackers to breach the confidentiality of sensitive information. The reason for this is, that timing attacks are still widely considered to be theoretical. In this talk, I present a toolkit for performing practical timing side channel attacks and showcase several timing attacks against real-world systems.</plot>
+  <actor>
+    <name>Sebastian Schinzel</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3349-128x128.png</thumb>
+  </actor>
+</episodedetails>

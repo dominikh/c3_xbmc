@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>The Science of Insecurity</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>47</episode>
+  <plot>Why is the overwhelming majority of common networked software still not secure, despite all effort to the contrary? Why is it almost certain to get exploited so long as attackers can craft its inputs? Why is it the case that no amount of effort seems to be enough to fix software that must speak certain protocols?</plot>
+  <actor>
+    <name>Meredith L. Patterson</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3541-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Sergey</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3201-128x128.png</thumb>
+  </actor>
+</episodedetails>

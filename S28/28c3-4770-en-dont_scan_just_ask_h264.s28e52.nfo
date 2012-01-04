@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Don't scan, just ask</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>52</episode>
+  <plot>For years, we tried to identify vulnerable systems in company networks by getting all the companies netblocks / ip addresses and scanning them for vulnerable services. Then with the growing importance of web applications and of course search engines, a new way of identifying vulnerable systems was introduced: "Google hacking". However this approach of identifying and scanning companies ip addresses as well as doing some Google hacking for the (known) URLs of the company doesn't take all aspects into account and has some limitations. At first we just check the systems which are obvious, the ones that are in the companies netblocks, the IP addresses that were provided by the company and the URLs that are known or can be resolved using reverse DNS. However how about URLs and systems that aren't obvious? Systems maybe even the company in focus forgot? Second, the current techniques are pretty technical. They don't take the business view into account at any point.Therefore we developed a new technique as well as framework to identify companies’ web pages based on a scored keyword list. In other words: From zero to owning all of a company’s existing web pages, even the pages not hosted by the company itself, with just a scored keyword list as input.</plot>
+  <actor>
+    <name>Fabian Mihailowitsch</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3530-128x128.png</thumb>
+  </actor>
+</episodedetails>

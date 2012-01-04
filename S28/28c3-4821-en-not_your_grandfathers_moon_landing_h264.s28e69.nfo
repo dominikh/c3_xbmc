@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Not your Grandfathers moon landing</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>69</episode>
+  <plot>We got a new rover and it's much more awesome than last year!
+Ok, there's a bit more to it :-)The basics, we are team of part-time scientists and engineers who want to send a rover to the moon before the end of the year 2013.
+There is a lot to be done towards this first private moon landing and we want to take the chance to explore what we want to do and show what we already accomplished in the past 12 months. The talk will feature important technical milestone like our very first R3 rover prototype and great events like the CCCamp11. 
+There is also be a live demonstration of the very first R3A rover right in the presentation.</plot>
+  <actor>
+    <name>Karsten Becker</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3216-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Robert Böhme</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3359-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Rootkits in your Web application</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>63</episode>
+  <plot>XSS bugs are the most widely known and commonly occurring Web vulnerability,
+but their impact has often been limited to cookie theft and/or simple actions,
+such as setting malicious email filters, stealing some data, or
+self-propagation via an XSS worm. In this work, I discuss practical approaches
+for exploiting XSS and other client-side script injection attacks, and introduce
+novel techniques for maintaining and escalating access within the victim's
+browser. In particular, I introduce the concept of resident XSS where
+attacker-supplied code is running in the context of an affected user's main
+application window and describe its consequences. I also draw analogies between
+such persistent Web threats and the traditional rootkit model, including
+similarities in the areas of embedding malicious code, maintaining access,
+stealthy communication with a C&C server, and the difficulty of detecting and
+removing attacker-supplied code.</plot>
+  <actor>
+    <name>Artur Janc</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-2605-128x128.png</thumb>
+  </actor>
+</episodedetails>

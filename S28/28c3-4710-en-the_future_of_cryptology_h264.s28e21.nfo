@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>The future of cryptology: which 3 letters algorithm(s) could be our Titanic?</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>21</episode>
+  <plot>The lessons and best practices of the titanic will be extracted. Are we ready?This will be a co-presentation (Jean-Jacques Quisquater / David Samyde) and occasional friendly exchange, with point and counter-point of different contrasting views on the impact of solving integer factorization and some other difficult problem in cryptography.The idea is to perform a provocative comparison between the 'unbreakable' RSA algorithm and the unsinkable Titanic.Receiving his RSA Conference Lifetime Achievement Award, Rivest said that it has not been demonstrated mathematically that factorization into primes is difficult. So “Factoring could turn out to be easy,” and according to him “maybe someone here will find the method”.Since 1994 and Shor's algorithm, the danger of quantum computer is known: breaking RSA in polynomial time. Factoring large numbers is conjectured to be computationally infeasible on classic non quantum computers. No efficient algorithm is known and the research in the last 30 years did not show enormous progress.Iceberg existence is predicted but not shown yet.According to Rivest a variety of alternative schemes have been developed in the decades since RSA was published, and a new system could probably be adopted quickly.This relies on solving factorization only, but several other cases can be considered, in some of them the action to replace RSA with a new algorithm could require more work than initially planned (solution to discrete logarithm).Managing the risk and the threat of the resolution of any major problem used in cryptography is crucial. This presentation challenges the conventional thinking using lessons learned from history.RSA users are everywhere so what could be the consequences of a break in the real world? What were the errors made on the Titanic? Can the best practices used be improved or just translated into a new scheme? What would be the impact of solving the RSA assumption on cryptography?The outline is:
+History of factorization
+Titanic primes and RSA keys
+Complexity, classes of algorithms and practical costs
+Risk analysis and Threat management
+Probability estimation and proactive monitoring
+From best to worst case
+Best methods and lessons learned
+Multiple scenari
+(Im)possibility of accurate prediction
+What to expect and how to be ready
+ConclusionAndrew Grove, former CEO of Intel said "Only the paranoid survive". Forecasting the presence of a strategic inflection point is hard. What to expect at the time of the next major cryptanalysis breakthrough? What history teaches? What remains to be done? Are we ready?</plot>
+  <actor>
+    <name>Jean-Jacques Quisquater </name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3667-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Renaud Devaliere</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3666-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Jahresrückblick</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>91</episode>
+  <plot>Kaum hat es begonnen, da ist es auch schon wieder vorbei – das Jahr 2011. Also ist es wieder an der Zeit für den Rückblick auf Technikforschung und Nerd-Lobbyismus mit Hackerperspektive, der natürlich nie ohne Ausblick ist.</plot>
+  <actor>
+    <name>Andreas Bogk</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-91-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Constanze Kurz</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-381-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Erdgeist</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-243-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Frank Rieger</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-9-128x128.png</thumb>
+  </actor>
+</episodedetails>

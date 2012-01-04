@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Print Me If You Dare</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>55</episode>
+  <plot>Network printers are ubiquitous fixtures within the modern IT infrastructure. Residing within sensitive networks and lacking in security, these devices represent high-value targets that can theoretically be used not only to manipulate and exfiltrate the sensitive information such as network credentials and sensitive documents, but also as fully functional general-purpose bot-nodes which give attackers a stealthy, persistent foothold inside the victim network for further recognizance, exploitation and exfiltration. </plot>
+  <actor>
+    <name>Ang Cui</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3454-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Jonathan Voris</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3641-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>SCADA and PLC Vulnerabilities in Correctional Facilities</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>8</episode>
+  <plot>Many prisons and jails use SCADA systems with PLCs to open and close doors. Using original and publically available exploits along with evaluating vulnerabilities in electronic and physical security designs, Newman, Rad and Strauchs have discovered significant vulnerabilities in PLCs used in correctional facilities by being able to remotely flip the switches to “open” or “locked closed” on cell doors and gates. This talk will evaluate and demo SCADA systems and PLC vulnerabilities in correctional and government secured facilities while recommending solutions. </plot>
+  <actor>
+    <name>Teague</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3637-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Tiffany Rad</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3458-128x128.png</thumb>
+  </actor>
+</episodedetails>

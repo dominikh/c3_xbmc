@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Antiforensik</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>71</episode>
+  <plot>Antiforensik ist ein noch eher neues Thema und bekommt zunehmend mehr Bedeutung. IT-Forensik als Mittel zur Aufklärung von Sachverhalten kann vor Gericht aber auch in internen Ermittlungen maßgeblich für Freisprüche oder Schuldsprüche sorgen. Daher ist es besonders schlimm, wenn die dazu verwendeten Programme nicht korrekt arbeiten und sogar mit präparierten antiforensischen Aktionen angegriffen werden können. Der Vortrag zeigt eine bisher unbekannte und dennoch technisch einfache Sicherheitslücke in mindestens einer weltweit verwendeten Forensik-Suite und wie diese ausgenutzt werden kann: Hinzufügen von Ermittlungsergebnissen, Löschen/Verändern von Ermittlungsergebnissen, Infektion des Auswertesystems mit Malware.</plot>
+  <actor>
+    <name>Martin Wundram</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3523-128x128.png</thumb>
+  </actor>
+</episodedetails>

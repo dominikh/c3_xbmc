@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Quantum of Science</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>4</episode>
+  <plot>Quantum systems can have very different properties from their classical analogues which allows them to have states that are not only correlated but entangled. This allows for quantum computers running algorithms more powerful than those on classical computers (represented by Turing machines) and for quantum cryptography whose safety is (in principle) guaranteed by the laws of nature. </plot>
+  <actor>
+    <name>Robert Helling</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-2451-128x128.png</thumb>
+  </actor>
+</episodedetails>

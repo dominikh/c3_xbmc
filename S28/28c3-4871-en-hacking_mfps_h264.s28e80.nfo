@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Hacking MFPs</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>80</episode>
+  <plot>We have decided to continue our research onto PostScript realms - an old, very powerful and nicely designed programming language, where (as a coincidence or not, given it's numerous security flaws) Adobe owns most PostScript interpreters instances.This time we demonstrate that PostScript language, given it's power, elegance and Turing-completeness, can be used more than just for drawing dots, lines and circles - and to a certain extent it can be a hacker's sweet delight if fully mastered.We will be presenting a real-life implementation of unusual PostScript APIs (along with it's dissection and reconstructed documentation) that interact with various levels of OS and HW, implementation we have found in a TOP10 printer vendor product line.Also, we will investigate whether a PostScript-based (hence platform-independent) virus (18+ years after first proposals of such theory) can be acomplished, thus giving theoretical hints and few building blocks in this direction.We will also present some very constructive uses of the PostScript language in the creative (i.e. non-destructive) hacking direction.In the end, we will try to summarize our conclusions and possible solution for all parties involved (vendors, users, sysadmins, security experts).With this research we hope we can prove that entire printer industry (devices, printing software/drivers/subsystems, publishing and managed services) have to be rethought security-wise, so that it can withstand in the long run the current security landscape and threats.</plot>
+  <actor>
+    <name>Andrei Costin</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3584-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Crowdsourcing Genome Wide Association Studies</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>28</episode>
+  <plot>It was only a couple of years ago that generating genetic information about individuals was expensive and laborious work. Modern techniques have drastically cut cost and time needed to get an insight into one's genome and have ultimately led to the formation of personal genetics companies – like 23andMe, deCODEme and others – that now offer direct-to-customer genetic testing. With a price tag of those tests starting at about 100 €, the number of people that do such tests is on the rise. By now, 23andMe alone has over 100.000 paying customers, with over 60.000 of them willing to donate their genetic data and to actively participate in research projects by filling out surveys, e.g. on their medical histories. This has resulted in a high-quality dataset with genetic information of 60.000 individuals. The best part: The data has already been paid for by the participants in the research. Who would not love to get their hands on data like this? Unfortunately, the data sits locked away in corporate vaults, inaccessible to interested (citizen) scientists. But what if we could change this? We've created openSNP, a central, open source, free-to-use repository which lets customers of genotyping companies upload their genotyping data and annotate them with phenotypes. OpenSNP provides its users with the latest scientific research on their genotypes and lets scientists download annotated genotypes to make science more open.</plot>
+  <actor>
+    <name>Bastian Greshake</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3503-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Philipp Bayer</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3613-128x128.png</thumb>
+  </actor>
+</episodedetails>

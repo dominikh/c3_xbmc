@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Pentanews Game Show 2k11/3</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>25</episode>
+  <plot>The Penta News Game Show rehashes a collection of absurd, day-to-day
+news items of 2011 to entertain the audience, let the Net participate,
+and make it's winners heroes.</plot>
+  <actor>
+    <name>Alien8</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-5-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>_john</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3307-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>klobs</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-879-128x128.png</thumb>
+  </actor>
+</episodedetails>

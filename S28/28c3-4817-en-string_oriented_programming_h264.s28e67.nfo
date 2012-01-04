@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>String Oriented Programming</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>67</episode>
+  <plot>The protection landscape is changing and exploits are getting more and more sophisticated. Exploit generation toolkits can be used to construct exploits for specific applications using well-defined algorithms. We present such an algorithm for leveraging format strings and introduce string oriented programming.</plot>
+  <actor>
+    <name>Mathias Payer</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-2574-128x128.png</thumb>
+  </actor>
+</episodedetails>

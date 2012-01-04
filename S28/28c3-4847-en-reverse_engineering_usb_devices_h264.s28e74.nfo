@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Reverse Engineering USB Devices</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>74</episode>
+  <plot>While USB devices often use standard device classes, some do not. This talk is about reverse engineering the protocols some of these devices use, how the underlying USB protocol gives us some help, and some interesting patterns to look for. I'll also detail the thought processes that went into reverse engineering the Kinect's audio protocol.</plot>
+  <actor>
+    <name>Drew Fisher</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3499-128x128.png</thumb>
+  </actor>
+</episodedetails>

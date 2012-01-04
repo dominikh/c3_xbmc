@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Your Disaster/Crisis/Revolution just got Pwned</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>20</episode>
+  <plot>Software is becoming more and more important in organizing response to all kinds of crises, whether that means activists responding to an unjust government or aid workers helping with the aftermath of a disaster.  Security often isn't the first thing people think about in these situations -- they have work to get done, just like the rest of us, and many of these tools are built in the heat of the moment.  In a crisis, a lack of security can make a small disaster into a big one.  In this talk, we'll look at real world experiences of the security and privacy problems in the field, and how to fix them, at both large and small levels.</plot>
+  <actor>
+    <name>Herr Urbach</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3266-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>willowbl00</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3512-128x128.png</thumb>
+  </actor>
+</episodedetails>

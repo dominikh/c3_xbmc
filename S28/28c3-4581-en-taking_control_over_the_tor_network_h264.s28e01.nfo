@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Taking control over the Tor network</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>1</episode>
+  <plot>This talk deals with weaknesses identified in the TOR network protocol and cryptography implementation. We manage to take control over users using this network and to access all your information and data exchanged despite cryptography.</plot>
+  <actor>
+    <name>Eric Filiol</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3366-128x128.png</thumb>
+  </actor>
+</episodedetails>

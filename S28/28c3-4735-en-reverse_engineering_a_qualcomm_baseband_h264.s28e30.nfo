@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Reverse-engineering a Qualcomm baseband</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>30</episode>
+  <plot>Despite their wide presence in our lives, baseband chips are still nowadays
+poorly known and understood from a system point of view. Some presentations
+have hilighted vulnerabilities in GSM stacks across various models of
+basebands (cf. 27c3: All your baseband are belong to us by R-P.  Weinmann).
+However none of them actually focused on the details of how a baseband
+operating system really works. This is the focus of our presentation.  From
+the study of a simple 3G USB stick equipped with a Qualcomm baseband, we will
+discuss how to dump the volatile memory, reverse-engineer the proprietary
+RTOS, and ultimately execute and debug code while trying to preserve the
+real-time system constraints.</plot>
+  <actor>
+    <name>Guillaume Delugré</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3526-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Deceiving Authorship Detection</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>56</episode>
+  <plot>Stylometry is the art of detecting authorship of a document based on the linguistic style present in the text. As authorship recognition methods based on machine learning have improved, they have also presented a threat to privacy and anonymity. We have developed two open-source tools, Stylo and Anonymouth, which we will release at 28C3 and introduce in this talk. Anonymouth aids individuals in obfuscating documents to protect identity from authorship analysis. Stylo is a machine-learning based authorship detection research tool that provides the basis for Anonymouth's decision making. We will also review the problem of stylometry and the privacy implications and present new research related to detecting writing style deception, threats to anonymity in short message services like Twitter, examine the implications for languages other than English, and release a large adversarial stylometry corpus for linguistic and privacy research purposes.</plot>
+  <actor>
+    <name>Michael Brennan</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-2588-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Rachel Greenstadt</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-2019-128x128.png</thumb>
+  </actor>
+</episodedetails>

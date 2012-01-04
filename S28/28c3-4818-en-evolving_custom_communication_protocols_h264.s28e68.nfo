@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Evolving custom communication protocols</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>68</episode>
+  <plot>Even after years of committee review, communication protocols can certainly be hacked, sometimes highly entertainingly. What about creating a protocol the opposite way?  Start with all the hacks that can be done and search for a protocol that gets around them all.  Is it even possible? Part Time Scientists has used a GPU to help design our moon mission protocols and we'll show you the what and how.  Danger: Real code will be shown!</plot>
+  <actor>
+    <name>Wes Faler</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3542-128x128.png</thumb>
+  </actor>
+</episodedetails>

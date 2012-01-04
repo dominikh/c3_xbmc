@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Automatic Algorithm Invention with a GPU</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>48</episode>
+  <plot>You write software. You test software. You know how to tell if the software is working. Automate your software testing sufficiently and you can let the computer do the writing for you! "Genetic Programming", especially "Cartesian Genetic Programming" (CGP), is a powerful tool for creating software and designing physical objects. See how to do CGP as we invent image filters for the Part Time Scientists' 3D cameras. Danger: Actual code will be shown!</plot>
+  <actor>
+    <name>Wes Faler</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3542-128x128.png</thumb>
+  </actor>
+</episodedetails>

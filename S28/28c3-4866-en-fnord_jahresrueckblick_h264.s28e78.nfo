@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Fnord-Jahresrückblick Translation</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>78</episode>
+  <plot>Auch dieses Jahr werden wir euch wieder mit den Fnords des Jahres zu unterhalten suchen.</plot>
+  <actor>
+    <name>Felix von Leitner</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-1046-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Frank Rieger</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-9-128x128.png</thumb>
+  </actor>
+</episodedetails>

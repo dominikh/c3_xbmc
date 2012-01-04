@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Bitcoin - An Analysis</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>36</episode>
+  <plot>Bitcoin is the first distributed, digital currency.
+It received a lot of attention recently as it questions
+the state monopoly to issue legal tender. It relies
+on distributed proof-of-work concepts to ensure 
+money-like characteristics.</plot>
+  <actor>
+    <name>Kay Hamacher</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-2626-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Stefan Katzenbeisser</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3165-128x128.png</thumb>
+  </actor>
+</episodedetails>

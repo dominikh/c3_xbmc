@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Smart Hacking For Privacy</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>40</episode>
+  <plot>Advanced metering devices (aka smart meters) are nowadays being installed throughout electric networks in Germany, in other parts of Europe and in the United States. Due to a recent amendment especially in Germany they become more and more popular and are obligatory for new and refurbished buildings.</plot>
+  <actor>
+    <name>Dario Carluccio</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3495-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Stephan Brinkhaus</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3651-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>NPC - Nerds’ Pissing Contest</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>26</episode>
+  <plot>Hier geht es um die Gretchenfrage: „Welches Tool ist das beste?“ Dabei treten zwei Teams gegeneinander an und müssen live verschiedene $RANDOM_NERD_TASK auf ihren eigenen Rechnern lösen. Wer dabei zeigt, dass sein Tool das schnellere, schlankere, mächtigere, längere, größere^w^w^w^wist, gewinnt. Durch das Programm führen Jan „git-zsh-keynote-firefox“ Wulfes und Benjamin „bzr-fish-latexbeamer-chrome“ Kellermann.</plot>
+  <actor>
+    <name>Benjamin Kellermann</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-1725-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>klobs</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-879-128x128.png</thumb>
+  </actor>
+</episodedetails>

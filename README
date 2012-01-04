@@ -1,0 +1,26 @@
+# -*- mode: org -*-
+
+* Description
+  This repository provides .nfo files for XBMC as well as a rename
+  script so you can add the yearly CCC to XBMC as a show.
+
+  Each congress maps to a season (e.g. 28c3 -> Season 28).
+
+* Usage
+  This set of files expects the following file structure for the downloaded talks:
+  `/some_folder_for_the_c3/Sxx/*.mp4`.
+
+  1) Copy /tvshow.nfo of this repository to `/some_folder_.../`
+  2) Copy /Sxx/{*.nfo,rename.sh} of this repository to
+     `/some_folder_.../Sxx/`
+  3) Go to `/some_folder_.../Sxx/` and execute `rename.sh`. This fixes
+     incorrect IDs in the file names as well as makes sure that XBMC
+     will detect them.
+
+* Caveats
+  This set of files only works for the H.264 HQ versions of the talks,
+  but making them work for the LQ or WebM versions just requires an
+  intelligent rename command.
+
+  Also, the first congress I have been doing this for is the 28c3, so
+  there won't be any files for older congresses, for now.

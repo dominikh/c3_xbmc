@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>KinectFusion</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>96</episode>
+  <plot>This project investigates techniques to track the 6DOF position of handheld depth sensing cameras, such as Kinect, as they move through space and perform high quality 3D surface reconstructions for interaction.</plot>
+  <actor>
+    <name>David Kim</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3657-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>How governments have tried to block Tor</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>60</episode>
+  <plot>Iran blocked Tor handshakes using Deep Packet Inspection (DPI) in January
+2011 and September 2011. Bluecoat tested out a Tor handshake filter in
+Syria in June 2011. China has been harvesting and blocking IP addresses
+for both public Tor relays and private Tor bridges for years.</plot>
+  <actor>
+    <name>Jacob Appelbaum</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-165-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Roger Dingledine</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-199-128x128.png</thumb>
+  </actor>
+</episodedetails>

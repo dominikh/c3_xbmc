@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>The engineering part of social engineering</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>76</episode>
+  <plot>All the talks i saw about SE so far just showed which good SE's the speakers are. I try to do another approach, what if i get in and don't know what to do then. The talk is about the reconn. before the assessment, the different approaches of SE. Which techniques can one use, how to do a proper intel. and what is useful. How things work and more important why. Which skill set should one have before entering a engagement. And last but not least how do one counter a SE attack.</plot>
+  <actor>
+    <name>Aluc</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3576-128x128.png</thumb>
+  </actor>
+</episodedetails>

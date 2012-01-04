@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Security Log Visualization with a Correlation Engine</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>50</episode>
+  <plot>This brief session focuses on the visualization of actual security incidents, network forensics and counter surveillance of covert criminal communications utilizing large data sets from various security logs and a very brief introduction to correlation engine logic. Visually displaying security or network issues can express the risk or urgency in a way a set of dry logs or other methods might not be able to. Additionally, many organizations rely on a more singular approach and react to security events, many times from a high false positive rate source such as isolated intrusion prevention or firewall alerts, or relying only on anti-virus alerts. Utilizing a correlation engine (especially open source) or similar applications could offer a method of discovering or in some cases proactively detecting issues.  The research discussed involves analysis and interrogation of firewall, intrusion detection and prevention systems, web proxy logs and available security research. What does a compromised server infected with spam malware look like or cyber warfare?  </plot>
+  <actor>
+    <name>Chris Kubecka</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3524-128x128.png</thumb>
+  </actor>
+</episodedetails>

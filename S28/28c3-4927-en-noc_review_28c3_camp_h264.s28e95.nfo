@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>NOC Review</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>95</episode>
+  <plot>A review about the camp and the congress network. Network layout, planning, setup, operation and finally the teardown.</plot>
+  <actor>
+    <name>Kay</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-1613-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Will Hargrave</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3646-128x128.png</thumb>
+  </actor>
+</episodedetails>

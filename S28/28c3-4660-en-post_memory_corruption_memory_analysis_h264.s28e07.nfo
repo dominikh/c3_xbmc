@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Post Memory Corruption Memory Analysis</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>7</episode>
+  <plot>Pmcma is a tool aimed at automating the most time consuming taskes of
+exploitation. It for instance determine why an application is triggering
+a segmentention fault, evaluate if the faulting instruction can be used
+to write to memory or execute arbitrary code, and list all the function
+pointers potentially called from a given point in time by an application.Pmcma is a totally new kind of debugger, which allows for easy
+experimentation with a process in memory by forcing it to fork. The
+exact replicas of the process created in memory can then be intrumented
+while keeping the properties (eg: state of variables, ASLR,
+permissions...) of the original process.Pmcma is an easily extensible framework available under the Apache 2.0
+license from http://www.pmcma.org/ .</plot>
+  <actor>
+    <name>endrazine</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-1245-128x128.png</thumb>
+  </actor>
+</episodedetails>

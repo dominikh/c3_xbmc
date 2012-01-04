@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>r0ket++</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>54</episode>
+  <plot>Now you've got that r0ket thing. What to do with it?</plot>
+  <actor>
+    <name>lilafisch</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-2856-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Stefan 'Sec' Zehl</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-101-128x128.png</thumb>
+  </actor>
+</episodedetails>

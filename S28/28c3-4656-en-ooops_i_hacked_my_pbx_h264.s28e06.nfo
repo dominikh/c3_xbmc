@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Ooops I hacked my PBX</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>6</episode>
+  <plot>This talk is cautionary tale about developers forgetting to remove debug interfaces from finished products and the need of repetitive system reviews. A midrange PBX systems (non web) configuration interface is used as an example of what flaws you can actually find in commercial systems.</plot>
+  <actor>
+    <name>pt</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3445-128x128.png</thumb>
+  </actor>
+</episodedetails>

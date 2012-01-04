@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Implementation of MITM Attack on HDCP-Secured Links</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>15</episode>
+  <plot>A man-in-the-middle attack on HDCP-secured video links is demonstrated. The attack is implemented on an embedded Linux platform, with the help of a Spartan-6 FPGA, and is capable of operating real-time on HD video links. It utilizes the HDCP master key to derive the corresponding private keys of the video source and sink through observation and computation upon the exchanged public keys. The man-in-the-middle then genlocks its raster and cipher state to the incoming video stream, enabling it to do pixel by pixel swapping of encrypted data. Since the link does no CRC or hash verification of the data, one is able to forge video using this method.</plot>
+  <actor>
+    <name>bunnie</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3485-128x128.png</thumb>
+  </actor>
+</episodedetails>

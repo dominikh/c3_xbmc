@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>New Ways I'm Going to Hack Your Web App</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>46</episode>
+  <plot>Writing secure code is hard.  Even when people do it basically right there are sometimes edge cases that can be exploited. Most the time writing code that works isn’t even the hard part,  it’s keeping up with the changing attack techniques while still keeping an eye on all the old issues that can come back to bite you, straddling the ancient world of the 90’s RFCs and 2010’s HTML5 compatible browsers.  A lot like how Indiana Jones bridges the ancient and the modern...  Except for Indiana Jones 4. Let’s never talk about that again. Ever.
+ 
+Take Facebook, Office 365, Wordpress, Exchange, and Live. These are applications that had decent mitigations to standard threats, but they all had edge cases. Using a mix of old and new ingredients, we’ll provide a sampler plate of clickjacking protection bypasses, CSRF mitigation bypasses, "non-exploitable" XSS attacks that are suddenly exploitable and XML attacks where you can actually get a shell; and we'll talk about how to defend against these attacks.</plot>
+  <actor>
+    <name>Jesse Ou</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3631-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Rich</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3540-128x128.png</thumb>
+  </actor>
+</episodedetails>

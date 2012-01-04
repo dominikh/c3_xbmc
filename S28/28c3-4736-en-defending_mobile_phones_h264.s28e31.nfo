@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Defending mobile phones</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2011</year>
+  <season>28</season>
+  <episode>31</episode>
+  <plot>Cell phone users face an increasing frequency and depth of privacy intruding attacks. Defense knowledge has not scaled at the same speed as attack capabilities. This talk intends to revert this imbalance.</plot>
+  <actor>
+    <name>Karsten Nohl</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-1317-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Luca Melette</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2011/Fahrplan/images/person-3341-128x128.png</thumb>
+  </actor>
+</episodedetails>
