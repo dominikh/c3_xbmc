@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Rootkits and Trojans on Your SAP Landscape</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>19</episode>
+  <plot>SAP systems are the heart of many enterprises. Most critical business functions run on SAP Applications and the complexity of these systems makes it very difficult to protect against attackers. Default setups, forgotten/unimplemented security configurations, weak password management and change processes that apply to one ‘unimportant’ system can result in complete compromise of the SAP landscape. </plot>
+  <actor>
+    <name>Ertunga Arsal</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2522-128x128.png</thumb>
+  </actor>
+</episodedetails>

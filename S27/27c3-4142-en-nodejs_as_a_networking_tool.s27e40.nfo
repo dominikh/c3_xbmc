@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Node.js as a networking tool</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>40</episode>
+  <plot>Node.js is a library that provides non-blocking I/O for Google's V8 JavaScript engine. This talk explores node's suitability for a diverse range of networking applications.</plot>
+  <actor>
+    <name>Felix Geisendörfer</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3095-128x128.png</thumb>
+  </actor>
+</episodedetails>

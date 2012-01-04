@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Radio der Zukunft</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>91</episode>
+  <plot>Radio – das ist eine der wenigen elektronischen Medientechnologien, die den Sprung in die digitale Ära noch nicht richtig geschafft hat. Während die Fernsehverbreitung schon fast vollständig per volldigitalen Systemen wie DVB-T stattfindet, bleiben die Radiosender dem guten alten Analog-Funk auf UKW treu. </plot>
+  <actor>
+    <name>Peter Welchering</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3220-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Ralph Müller-Schmid</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3221-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Tim Pritlove</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-4-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Willi Steul</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3219-128x128.png</thumb>
+  </actor>
+</episodedetails>

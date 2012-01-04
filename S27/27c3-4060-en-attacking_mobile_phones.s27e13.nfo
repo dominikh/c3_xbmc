@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>SMS-o-Death</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>13</episode>
+  <plot>Smart phones, everybody has a smart phone! No! Just about 16% of all mobile phones are smart phones! Feature phones are the most common type of mobile phone in the world. Some time ago we decided to investigate the security of feature phones. In this talk we show how we analyzed feature phones for SMS security issues. We show our results and the kind of attacks that are possible with our bugs.</plot>
+  <actor>
+    <name>Collin Mulliner</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-1682-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Nico Golde</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3046-128x128.png</thumb>
+  </actor>
+</episodedetails>

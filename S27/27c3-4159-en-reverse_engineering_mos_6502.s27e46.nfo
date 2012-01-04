@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Reverse Engineering the MOS 6502 CPU</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>46</episode>
+  <plot>The MOS 6502 CPU, which was designed in 1975 and powered systems like the Apple II, the Atari 2600, the Nintendo NES and the Commodore 64 for two decades, has always been subject to intense reverse engineering of its inner workings. Only recently, the Visual6502.org project has converted a hi-res die-shot of the 6502 into a polygon model suitable for visually simulating the original mask at the transistor level. This talk will present the way from a chip package to a digital representation, how to simulate transistors in software, and new insights gained form this research about 6502 internals, like "illegal" opcodes.</plot>
+  <actor>
+    <name>Michael Steil</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-283-128x128.png</thumb>
+  </actor>
+</episodedetails>

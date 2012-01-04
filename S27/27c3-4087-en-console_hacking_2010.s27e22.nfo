@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Console Hacking 2010</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>22</episode>
+  <plot>Over 70 million Wiis, over 40 million Xbox 360s and over 35 million Playstation 3s have been sold in the last few years. That makes over 145 million embedded devices out there and most of them are just used to play games. But what can you do with them if you don't like playing games? You hack them to make them run your own code of course! 
+We're going to talk about the various hacks that you can use to gain control of your hardware and make it do what you want it to do.</plot>
+  <actor>
+    <name>bushing</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2050-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>marcan</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2134-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>sven</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3049-128x128.png</thumb>
+  </actor>
+</episodedetails>

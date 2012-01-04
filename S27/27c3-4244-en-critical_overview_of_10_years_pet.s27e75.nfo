@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>A Critical Overview of 10 years of Privacy Enhancing Technologies</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>75</episode>
+  <plot>The objective of the session is to provide a critical overview of "privacy research" within computer science. The mechanisms proposed in the last ten year include mechanisms for anonymous communications, censorship resistance, selective disclosure credentials (and their integration in identity management systems), as well as privacy in databases. All of these system are meant to shield the user from different aspects of on-line surveillance either through allowing a user to keep some of her data "confidential" or by allowing her to assert "control" over her data. We will illustrate using concrete examples, why some paradigms came to dominate the ﬁeld, their advantages, but also their blind spots, and unfulfilled promises given the conditions of our surveillance societies.</plot>
+  <actor>
+    <name>seda</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3147-128x128.png</thumb>
+  </actor>
+</episodedetails>

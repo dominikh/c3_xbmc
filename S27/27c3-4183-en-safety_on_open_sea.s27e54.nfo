@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Safety on the Open Sea</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>54</episode>
+  <plot>In maritime shipping accurate positioning is vital to preserve damage to life, ship, and goods. Today, we might tend to think that this problem is sufficiently solved yet because of the existence of electronic positioning systems like, most notably, the Global Positioning System (GPS) or the Russian counterpart GLONASS. This is wrong. Positions in terms of latitude and longitude just make sense together with an accurate sea chart (and of course, together with a navigator that is able to translate charting data into reality).</plot>
+  <actor>
+    <name>Bernhard Fischer</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2054-128x128.png</thumb>
+  </actor>
+</episodedetails>

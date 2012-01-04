@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>"Spoilers, Reverse Green, DECEL!" or "What's it doing now?"</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>43</episode>
+  <plot>Getting the interfaces right to computers controlling complex and dangerous machines such as commercial airliners is crucial. I will present a successful accident analysis method and talk about interface design problems, ideas for solutions, methods for understanding causal control flow. There will be some spectacular aviation accident videos and stories of bad luck, bad design, bad decisions, and a hero that managed to turn a near-catastrophe into an accident without fatalities.</plot>
+  <actor>
+    <name>Bernd Sieker</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3094-128x128.png</thumb>
+  </actor>
+</episodedetails>

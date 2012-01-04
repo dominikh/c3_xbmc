@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>CCC-Jahresrueckblick 2010</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>86</episode>
+  <plot>Wir berichten über vergangene Veranstaltungen, Erfa-Aktivitäten, Demonstrationen, Hacks, Medienkontakte, Gerichtsverhandlungen, Lobbyarbeit sowie weiteres Erfreuliches und Ärgerliches des Jahres 2010 keinesfalls objektiv, sondern mit der gewohnten Hackerperspektive.</plot>
+  <actor>
+    <name>Andreas Bogk</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-91-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Andy Müller-Maguhn</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-45-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Constanze Kurz</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-381-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Frank Rieger</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-9-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>"The Concert"</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>61</episode>
+  <plot>Corey Cerovsek and Julien Quentin, accomplished musicians known worldwide for their classical recital performances, and media artist Alex Antener present something that's not quite an ordinary concert, to draw attention to the importance of the public domain in centuries of classical music tradition. It's both more — and less — than what you might expect to see and hear at a classical concert.</plot>
+  <actor>
+    <name>Alex Antener</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-1170-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Corey Cerovsek</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3121-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Julien Quentin</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3124-128x128.png</thumb>
+  </actor>
+</episodedetails>

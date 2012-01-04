@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>FrozenCache</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>8</episode>
+  <plot>Cold boot attacks are a major risk for the protection that Full-Disk-Encryption solutions provide. FrozenCache is a general-purpose solution to this attack for x86 based systems that employs a special CPU cache mode known as "Cache-as-RAM". Switching the CPU cache into a special mode forces data to held exclusively in the CPU cache and not to be written to the backing RAM locations, thus safeguarding data from being obtained from RAM by means of cold boot attacks.</plot>
+  <actor>
+    <name>Juergen Pabel</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2149-128x128.png</thumb>
+  </actor>
+</episodedetails>

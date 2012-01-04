@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Code deobfuscation by optimization</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>26</episode>
+  <plot>Optimization algorithms present an effective way for removing most obfuscations that are used today. Much of the compiler theory can be applied in removing obfuscations and building fast and reliable deobfuscation systems. By understanding traditional optimization problems and techniques it is possible to develop and customize compiler optimization algorithms for usage in binary deobfuscation/analysis.</plot>
+  <actor>
+    <name>Branko Spasojevic</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2986-128x128.png</thumb>
+  </actor>
+</episodedetails>

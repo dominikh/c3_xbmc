@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Running your own GSM stack on a phone</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>1</episode>
+  <plot>In recent years, we have seen several Free Software projects implementing the network side of the GSM protocol. In 2010, OsmocomBB was started to create a free software implementation of the telephone-side.</plot>
+  <actor>
+    <name>Harald Welte</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-62-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Steve Markgraf</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3225-128x128.png</thumb>
+  </actor>
+</episodedetails>

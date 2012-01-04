@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Defense is not dead</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>34</episode>
+  <plot>The security model of our current computer architectures - kernel in ring 0, processes in ring 3 - goes back to the early 70s. However, science hasn't stopped.</plot>
+  <actor>
+    <name>Andreas Bogk</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-91-128x128.png</thumb>
+  </actor>
+</episodedetails>

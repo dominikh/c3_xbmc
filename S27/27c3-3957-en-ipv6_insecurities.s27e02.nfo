@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Recent advances in IPv6 insecurities</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>2</episode>
+  <plot>New protocol features have been proposed and implemented in the last 5 years and ISPs are now slowly starting to deploy IPv6. This talk starts with a brief summary of the issues presented five years ago, and then expands on the new risks.
+Discovered implemention security issues in Windows 7/2008, Linux and Cisco will be shown too. Comes with a GPL'ed toolkit: thc-ipv6</plot>
+  <actor>
+    <name>vanHauser</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2954-128x128.png</thumb>
+  </actor>
+</episodedetails>

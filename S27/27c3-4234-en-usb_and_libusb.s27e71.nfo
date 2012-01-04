@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>USB and libusb</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>71</episode>
+  <plot>Learn about the benefits and limitations of Universal Serial Bus, how communication works on the bus, how and why the right (and sometimes wrong?) driver can be loaded automatically by the operating system, and find out the easiest way to add USB to your washing machine, toaster, or other favorite appliance.</plot>
+  <actor>
+    <name>Peter Stuge</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2031-128x128.png</thumb>
+  </actor>
+</episodedetails>

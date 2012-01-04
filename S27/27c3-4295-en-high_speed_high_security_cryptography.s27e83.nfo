@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>High-speed high-security cryptography: encrypting and authenticating the whole Internet</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>83</episode>
+  <plot>Are you writing a program that sends data through the Internet? Are you sending the data through HTTP, or SMTP, or simply TCP, leaving it vulnerable to espionage, corruption, and sabotage by anyone who owns a machine connected to the same network?You can use SSH and IPsec to protect communication with your own machines, but how do you talk to the rest of the Internet? You can use TCPcrypt to protect yourself against attackers too lazy to forge packets, but how do you protect yourself against serious attackers? You can use HTTPS for low-frequency communication, but how do you handle heavy network traffic, and how do you protect yourself against the security flaws in HTTPS? Today's Internet cryptography is slow, untrustworthy, hard to use, and remarkably unsuccessful as a competitor to good old unprotected TCP.This talk will present a different approach to high-security Internet cryptography. This approach is easy for users, easy for system administrators, and, perhaps most importantly, easy for programmers. The main reason that the approach has not been tried before is that it seems to involve very slow cryptographic operations; this talk will show that the approach is extremely fast when it is done right.</plot>
+  <actor>
+    <name>Daniel J. Bernstein</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3166-128x128.png</thumb>
+  </actor>
+</episodedetails>

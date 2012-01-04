@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>News Key Recovery Attacks on RC4/WEP</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>79</episode>
+  <plot>In this paper, we present several weaknesses in the stream cipher RC4.
+First, we present a technique to automatically reveal linear
+correlations in the PRGA of RC4. </plot>
+  <actor>
+    <name>Martin Vuagnoux</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3154-128x128.png</thumb>
+  </actor>
+</episodedetails>

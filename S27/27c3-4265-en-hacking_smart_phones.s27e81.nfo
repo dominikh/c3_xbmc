@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>hacking smart phones</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>81</episode>
+  <plot>There's been a fair bit written and presented about smartphone's, and yet, when it comes to the attack surface of the operating systems running on them, and the applications running on top of those, much still has to be explorer. This talk will dive a bit deeper into that attack surface.</plot>
+  <actor>
+    <name>Ilja van Sprundel</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3158-128x128.png</thumb>
+  </actor>
+</episodedetails>

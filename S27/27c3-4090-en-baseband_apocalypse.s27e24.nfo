@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>The Baseband Apocalypse</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>24</episode>
+  <plot>Attack scenarios against mobile phones have thus far concentrated on the application processor. The operating systems running on these processors are getting hardened by vendors as can be seen in the case of Apple's iOS -- the current release uses data execution prevention and code signing. In contrast, the GSM stack running on the baseband processor is neglected. The advent of open-source solutions such as OpenBSC and OpenBTS for running GSM base stations is a game-changer: Malicious base stations are not within the attack model assumed by the GSMA and ETSI. </plot>
+  <actor>
+    <name>Ralf-Philipp Weinmann</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-1192-128x128.png</thumb>
+  </actor>
+</episodedetails>

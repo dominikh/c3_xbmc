@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Hacker Jeopardy (english translation)</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>92</episode>
+  <plot>The Hacker Jeopardy is a quiz show.</plot>
+  <actor>
+    <name>Ray</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-933-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Stefan 'Sec' Zehl</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-101-128x128.png</thumb>
+  </actor>
+</episodedetails>

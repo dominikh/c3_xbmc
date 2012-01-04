@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Literarischer Abend</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>60</episode>
+  <plot>Ein literarischer Abend im Quartett.</plot>
+  <actor>
+    <name>Andreas Lehner</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-7-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Lars</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-1086-128x128.png</thumb>
+  </actor>
+</episodedetails>

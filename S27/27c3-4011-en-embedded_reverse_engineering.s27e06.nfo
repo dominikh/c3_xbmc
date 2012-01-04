@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>JTAG/Serial/FLASH/PCB Embedded Reverse Engineering Tools and Techniques</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>6</episode>
+  <plot>Bring your target. Will release a slew of simple tools that explore attack surfaces and explain of how to use: jtag/serial scanners, parallel flash dumper, DePCB board routing analysis. So, crossover from software RE and start hacking/improving like its 1996 again. (full documentation and reference at: http://events.ccc.de/congress/2010/wiki/Embedded_Analysis)</plot>
+  <actor>
+    <name>Nathan Fain</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2997-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Vadik</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3212-128x128.png</thumb>
+  </actor>
+</episodedetails>

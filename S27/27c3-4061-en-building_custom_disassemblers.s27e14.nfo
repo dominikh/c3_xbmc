@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Building Custom Disassemblers</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>14</episode>
+  <plot>The Reverse Engineer occasionally faces situations where even his most advanced commercial tools do not support the instruction set of an arcane CPU. To overcome this situation, one can develop the missing disassembler. This talk is meant to be a tutorial on how to approach the task, what to focus on first and what surprises one may be in for. The primary focus will be on the transformation of byte code back into mnemonic representation where only the reverse transformation is available (i.e. you have the respective assembler). It also covers how to integrate your new disassembler into your reverse engineering tool chain.</plot>
+  <actor>
+    <name>FX of Phenoelit</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-134-128x128.png</thumb>
+  </actor>
+</episodedetails>

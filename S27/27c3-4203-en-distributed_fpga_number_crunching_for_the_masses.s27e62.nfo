@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Distributed FPGA Number Crunching For The Masses</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>62</episode>
+  <plot>In 1998, the EFF built "Deep Crack", a machine designed to perform a walk over DES's 56-bit keyspace in nine days, for $250.000. With today's FPGA technology, a cost decrease of 25x can be achieved, as the copacobana project has shown. If that's still too much, two approaches should be considered: Recycling hardware and distributed computing. This talk will be about combining both approaches for the greater good.</plot>
+  <actor>
+    <name>Felix Domke</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-373-128x128.png</thumb>
+  </actor>
+</episodedetails>

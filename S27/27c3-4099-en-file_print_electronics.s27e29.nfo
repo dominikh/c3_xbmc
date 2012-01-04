@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>File -> Print -> Electronics</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>29</episode>
+  <plot>Are you ready to wake up from the cult of Arduino? Tired of plugging together black-box pre-built modules like a mindless drone, copying and pasting in code you found on Hackaday? You've soldered together your TV-Be-Gone, built your fifth Minty Boost, and your bench is awash with discarded Adafruit packaging and Make magazines. It's time to stop this passive consumption. It's time to create something that is truly yours. It's time, my friend, to design your first circuit board. And you'll need a machine to print it.</plot>
+  <actor>
+    <name>Jeff Gough</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2070-128x128.png</thumb>
+  </actor>
+</episodedetails>

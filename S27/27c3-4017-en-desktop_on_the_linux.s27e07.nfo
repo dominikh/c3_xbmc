@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Desktop on the Linux... (and BSD, of course)</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>7</episode>
+  <plot>Time to take a look back and under the hood of the current state of FOSS based desktops: The Good, The Bad and The Ugly – Bloat, strange APIs, too much complexity.</plot>
+  <actor>
+    <name>datenwolf</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2477-128x128.png</thumb>
+  </actor>
+</episodedetails>

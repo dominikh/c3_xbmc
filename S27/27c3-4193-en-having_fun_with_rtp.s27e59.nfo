@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Having fun with RTP</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>59</episode>
+  <plot>A lot of people are interested and involved in voice over IP security. Most of the effort is concentrated on the security of the signalling protocols. This talk is focussing on the security of the voice part involved in todays voice over IP world. It is the result of the questions that I had to ask myself while i was debugging audio quality problems of customers and implementing a RTP stack from scratch.</plot>
+  <actor>
+    <name>kapejod</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2958-128x128.png</thumb>
+  </actor>
+</episodedetails>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>I Control Your Code</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>44</episode>
+  <plot>Unsafe languages and an arms race for new bugs calls for an additional line of defense in software systems. User-space virtualization uses dynamic instrumentation to detect different attack vectors and protects from the execution of malicious code. An additional advantage of these virtualization systems is that they can be used to analyze different exploits step by step and to extract the exploit code from a running program.This talk explains the concept of different attack vectors (stack buffer overflows, format string attacks, return to libc attacks, race attacks / TOCTTOU, integer overflows, heap buffer overflows, and code anomalies). For each of these attack vectors we show possible exploits and explain how the virtualization system is able to detect and prevent the exploit.</plot>
+  <actor>
+    <name>Mathias Payer</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-2574-128x128.png</thumb>
+  </actor>
+</episodedetails>

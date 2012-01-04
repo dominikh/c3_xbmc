@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>A framework for automated architecture-independent gadget search</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>49</episode>
+  <plot>We demonstrate that automated, architecture-independent gadget search is possible. Gadgets are code fragments which can be used to build unintended programs from existing code in memory. Our contribution is a framework of algorithms capable of locating a Turing-complete gadget set.</plot>
+  <actor>
+    <name>kornau</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-3108-128x128.png</thumb>
+  </actor>
+</episodedetails>

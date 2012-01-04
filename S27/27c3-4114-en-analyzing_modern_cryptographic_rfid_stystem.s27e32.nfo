@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Analyzing a modern cryptographic RFID system</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>32</episode>
+  <plot>Popular contactless systems for physical access control still rely on obscurity. As we have shown, time and time again, proprietary encryption systems are weak and easy to break. In a follow-up to last year's presentation we will now demonstrate attacks on systems with 'proper' cryptographic algorithms.</plot>
+  <actor>
+    <name>Henryk Plötz</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-995-128x128.png</thumb>
+  </actor>
+  <actor>
+    <name>Milosch Meriac</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-269-128x128.png</thumb>
+  </actor>
+</episodedetails>

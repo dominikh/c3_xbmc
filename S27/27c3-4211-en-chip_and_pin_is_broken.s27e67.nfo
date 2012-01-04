@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<episodedetails>
+  <title>Chip and PIN is Broken</title>
+  <showtitle>Chaos Communication Congress</showtitle>
+  <year>2010</year>
+  <season>27</season>
+  <episode>67</episode>
+  <plot>EMV is the dominant protocol used for smart card payments worldwide, with over 730 million cards in circulation. Known to bank customers as “Chip and PIN”, it is used in Europe; it is being introduced in Canada; and there is pressure from banks to introduce it in the USA too. EMV secures credit and debit card transactions by authenticating both the card and the customer presenting it through a combination of cryptographic authentication codes, digital signatures, and the entry of a PIN. In this paper we describe and demonstrate a protocol flaw which allows criminals to use a genuine card to make a payment without knowing the card’s PIN, and to remain undetected even when the merchant has an online connection to the banking network.</plot>
+  <actor>
+    <name>Steven J. Murdoch</name>
+    <role></role>
+    <thumb>http://events.ccc.de/congress/2010/Fahrplan/images/person-143-128x128.png</thumb>
+  </actor>
+</episodedetails>
