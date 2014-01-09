@@ -32,8 +32,13 @@ def createNFO(episode, id_num, talk, season, num_digit=2):
     <showtitle>Chaos Communication Congress</showtitle>
     <season>%d</season>
     <episode>%d</episode>
-    <title>%s</title>
-    <outline>%s</outline>
+    <title>%s</title>""" % (season, episode, talk.title)
+
+    if talk.subtitle is not None:
+        xml_file += """
+    <outline>%s</outline>""" % talk.subtitle
+
+    xml_file += """
     <year>%s</year>
     <id>%s</id>
     <plot>
@@ -41,7 +46,7 @@ def createNFO(episode, id_num, talk, season, num_digit=2):
     </plot>
     <genre>Talk</genre>
     <tag>%s</tag>
-    """ % (season, episode, talk.title, talk.subtitle, 1983 + season, id_num, talk.description, talk.category)
+    """ % (1983 + season, id_num, talk.description, talk.category)
 
     for speaker in talk.speakers:
         xml_file += r"""<actor>
