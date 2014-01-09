@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>9</episode>
+    <title>WarGames in memory</title>
+    <outline>what is the winning move?</outline>
+    <year>2013</year>
+    <id>5223</id>
+    <plot>
+        Memory corruption has been around forever but is still one of the most exploited problems on current systems. This talk looks at the past 30 years of memory corruption and systematizes the different existing exploit and defense techniques in a streamlined way. We evaluate (i) how the different attacks evolved, (ii) how researchers came up with defense mechanisms as an answer to new threats, and (iii) what we will have to expect in the future.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>gannimo</name>
+        <role></role>
+    </actor>
+    </episodedetails>

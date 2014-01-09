@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>12</episode>
+    <title>The philosophy of hacking</title>
+    <outline>Contemplations on the essence of hacking and its implications on hacker ethics</outline>
+    <year>2013</year>
+    <id>5278</id>
+    <plot>
+        Modern society's use of technology as an instrument for domination is deeply problematic. Are instrumentality and domination inherent to the essence of technology? Can hacking provide an alternative approach to technology which can overcome this? How do art and beauty fit into this approach?
+    </plot>
+    <genre>Talk</genre>
+    <tag>Art & Beauty</tag>
+        <actor>
+        <name>groente</name>
+        <role></role>
+    </actor>
+    </episodedetails>

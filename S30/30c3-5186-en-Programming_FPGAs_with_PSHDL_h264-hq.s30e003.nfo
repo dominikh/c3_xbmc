@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>3</episode>
+    <title>Programming FPGAs with PSHDL</title>
+    <outline>Let's create the Arduino for FPGAs</outline>
+    <year>2013</year>
+    <id>5186</id>
+    <plot>
+        Learning to program an FPGA is time consuming. Not just do you need to download and install 20 GB of vendor tools, but you also need to wrap your brain around the strange ideas of hardware description languages like VHDL. PSHDL aims to ease the learning curve significantly and provide more people with the ability to program FPGAs.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Hardware & Making</tag>
+        <actor>
+        <name>Karsten Becker</name>
+        <role></role>
+    </actor>
+    </episodedetails>

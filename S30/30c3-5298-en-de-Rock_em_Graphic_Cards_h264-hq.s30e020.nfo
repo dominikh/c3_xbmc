@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>20</episode>
+    <title>Rock' em Graphic Cards</title>
+    <outline> Introduction to Heterogeneous Parallel Programming</outline>
+    <year>2013</year>
+    <id>5298</id>
+    <plot>
+        This talks introduces programming concepts and languages for parallel programming on accelerator cards.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Hardware & Making</tag>
+        <actor>
+        <name>mel/ Agnes Meyder</name>
+        <role></role>
+    </actor>
+    </episodedetails>

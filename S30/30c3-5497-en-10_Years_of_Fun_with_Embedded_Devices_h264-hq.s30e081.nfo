@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>81</episode>
+    <title>10 Years of Fun with Embedded Devices</title>
+    <outline>How OpenWrt evolved from a WRT54G firmware to an universal Embedded Linux OS</outline>
+    <year>2013</year>
+    <id>5497</id>
+    <plot>
+        A review of the 10 year history of the OpenWrt project, current events, and upcoming developments.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Hardware & Making</tag>
+        <actor>
+        <name>nbd</name>
+        <role></role>
+    </actor>
+    </episodedetails>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>82</episode>
+    <title>X Security</title>
+    <outline>It's worse than it looks</outline>
+    <year>2013</year>
+    <id>5499</id>
+    <plot>
+        For the past year, I've been looking at the implementation of X.org code. both client and server. During this presentation, I'll give an overview of the good, the bad and the ugly.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>Ilja van Sprundel</name>
+        <role></role>
+    </actor>
+    </episodedetails>

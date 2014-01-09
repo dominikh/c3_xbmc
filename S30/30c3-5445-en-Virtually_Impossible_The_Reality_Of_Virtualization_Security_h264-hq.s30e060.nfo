@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>60</episode>
+    <title>Virtually Impossible: The Reality Of Virtualization Security</title>
+    <outline>Errata FTW</outline>
+    <year>2013</year>
+    <id>5445</id>
+    <plot>
+        This talk will demonstrate why it is virtually impossible to secure virtual machines implementations properly. In the talk I will try to give an overview of the basics of hardware virtualization technology, the existing attack techniques against virtualization and also explain why it is such a complex problem to create a secure hypervisor. The talk will focus on the low level interfaces and how it affects all aspects of computer platform security. I will also try to review a few interesting Erratas at the end of the talk.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>Gal Diskin</name>
+        <role></role>
+    </actor>
+    </episodedetails>

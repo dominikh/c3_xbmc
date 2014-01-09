@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>101</episode>
+    <title>Beyond the Tech: Building Internet Freedom Tools for Real People</title>
+    <outline>None</outline>
+    <year>2013</year>
+    <id>5550</id>
+    <plot>
+        Few hackers will disagree that users are not given enough consideration when building Internet Freedom Tools designed to circumvent censorship and surveillance. But how do we do it? This talk will outline a framework for a user-focused approach to the Development and Impact of Internet Freedom Tools through using ethnography, human-centered design, and the practice of research-based product definition. This talk is intended for developers, researchers, and journalists who seek to understand how better tools can be developed to protect anonymity and provide unfettered access to the Internet.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Science & Engineering</tag>
+        <actor>
+        <name>Michael Brennan</name>
+        <role></role>
+    </actor>
+    </episodedetails>

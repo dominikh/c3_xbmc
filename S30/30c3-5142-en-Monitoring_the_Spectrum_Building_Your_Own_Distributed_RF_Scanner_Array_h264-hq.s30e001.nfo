@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>1</episode>
+    <title>Monitoring the Spectrum: Building Your Own Distributed RF Scanner Array</title>
+    <outline>None</outline>
+    <year>2013</year>
+    <id>5142</id>
+    <plot>
+        Software-Defined Radio (SDR) has increased in popularity in recent years due to the decrease in hardware costs and increase in processing power. One example of such a class of devices is the RTL-SDR USB dongles based on the Realtek RTL2832U demodulator. This talk will discuss my experience in building a distributed RF scanner array for monitoring and spectrum mapping using such cheap SDR devices. The goal is to help the audience understand the what, why, and how of building their own RF monitoring array so that they will be able to do it themselves. In this era of increasingly being ``watched'', we must be prepared to do our own ``watching''.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Hardware & Making</tag>
+        <actor>
+        <name>Andrew Reiter (arr</name>
+        <role></role>
+    </actor>
+        <actor>
+        <name>awr)</name>
+        <role></role>
+    </actor>
+    </episodedetails>

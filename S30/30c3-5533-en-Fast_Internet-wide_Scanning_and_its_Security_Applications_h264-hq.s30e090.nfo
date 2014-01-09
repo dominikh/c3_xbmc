@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>90</episode>
+    <title>Fast Internet-wide Scanning and its Security Applications</title>
+    <outline>None</outline>
+    <year>2013</year>
+    <id>5533</id>
+    <plot>
+        Internet-wide network scanning has powerful security applications, including exposing new vulnerabilities, tracking their mitigation, and exposing hidden services.  Unfortunately, probing the entire public address space with standard tools like Nmap requires either months of time or large clusters of machines.  In this talk, I'll demonstrate <a href="https://zmap.io">ZMap</a>, an open-source network scanner developed by my research group that is designed from the ground up to perform Internet-wide scans efficiently.  We've used ZMap with a gigabit Ethernet uplink to survey the entire IPv4 address space in under 45 minutes from a single machine, more than 1300 times faster than Nmap.  I'll explain how ZMap's architecture enables such high performance.  We'll then work through a series of practical examples that explore the security applications of very fast Internet-scale scanning, both offensive and defensive.  I'll talk about results and experiences from conducting more than 300 Internet-wide scans over the past 18 months, including new revelations about the state of the HTTPS CA ecosystem.  I'll discuss the reactions our scans have generated--on one occasion we were mistaken for an Iranian attack against U.S. banks and we received a visit from the FBI--and I'll suggest guidelines and best practices for good Internet citizenship while scanning.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>J. Alex Halderman</name>
+        <role></role>
+    </actor>
+    </episodedetails>

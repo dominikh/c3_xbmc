@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>33</episode>
+    <title>Disclosure DOs, Disclosure DON'Ts</title>
+    <outline>Pragmatic Advice for Security Researchers</outline>
+    <year>2013</year>
+    <id>5361</id>
+    <plot>
+        This talk will focus on responsible disclosure best and worst practices from both legal and practical perspectives. I'll also focus on usable advice, both positive and negative, and answer any questions the audience has on best practices.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Ethics, Society & Politics</tag>
+        <actor>
+        <name>Nate Cardozo</name>
+        <role></role>
+    </actor>
+    </episodedetails>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>75</episode>
+    <title>Building a safe NFC ticketing system</title>
+    <outline>None</outline>
+    <year>2013</year>
+    <id>5479</id>
+    <plot>
+        NFC technology is becoming more and more relevant in our lives. One of its major uses is in ticketing solutions. However, most of companies use bad implementations of NFC technology. By this talk we will explain a complete solution, analyzing security challenges and outlining the best practices and implementation choices.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Hardware & Making</tag>
+        <actor>
+        <name>bughardy</name>
+        <role></role>
+    </actor>
+        <actor>
+        <name>Eagle1753</name>
+        <role></role>
+    </actor>
+    </episodedetails>

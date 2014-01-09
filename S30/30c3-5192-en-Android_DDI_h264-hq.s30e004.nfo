@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>4</episode>
+    <title>Android DDI</title>
+    <outline>Dynamic Dalvik Instrumentation of Android Applications and the Android Framework</outline>
+    <year>2013</year>
+    <id>5192</id>
+    <plot>
+        As application security becomes more important on Android we need better tools to analyze and understand them. Android applications are written in Java and a run in the Dalvik VM. Until now most analysis is done via disassembling and monitored execution in an emulator. This talk presents a new technique to instrument Android applications executed in the DVM. The talk will introduce the new technique in great detail including many small examples and a whole attack based on it. We will go step by step to show you what can be achieved using this technique.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>Collin Mulliner</name>
+        <role></role>
+    </actor>
+    </episodedetails>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>23</episode>
+    <title>Reverse engineering of CHIASMUS from GSTOOL</title>
+    <outline>It hurts.</outline>
+    <year>2013</year>
+    <id>5307</id>
+    <plot>
+        We reverse-engineered one implementation of the non-public CHIASMUS cipher designed by the German Federal Office for Information Security (Bundesamt für Sicherheit in der Informationstechnik, short BSI). This did not only give us some insight on the cipher, but also uncovered serious implementation issues in GSTOOL which allow attackers to crack files encrypted with the GSTOOL encryption function with very little effort.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>Jan Schejbal</name>
+        <role></role>
+    </actor>
+    </episodedetails>

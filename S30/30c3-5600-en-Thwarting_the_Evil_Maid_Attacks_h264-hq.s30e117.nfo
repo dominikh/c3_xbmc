@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>117</episode>
+    <title>Thwarting Evil Maid Attacks</title>
+    <outline>Physically Unclonable Functions for Hardware Tamper Detection</outline>
+    <year>2013</year>
+    <id>5600</id>
+    <plot>
+        Increasingly, users and their computing hardware are exposed a range of software and hardware attacks, ranging from disk imaging to hardware keylogger installation and beyond. Existing methods are inadequate to fully protect users, particularly from covert physical hardware modifications in the "evil maid" scenario, and yet are very inconvenient. Victims include governments and corporations traveling internationally (e.g. China), anti-government activists in places like Syria, and anyone who is a target of a motivated attacker who can gain physical access.
+
+Physically Unclonable Functions, combined with a trusted mobile device and a network service, can be used to mitigate these risks. We present a novel open-source mobile client and network service which can protect arbitrary hardware from many forms of covert modification and attack, and which when integrated with software, firmware, and policy defenses, can provide greater protection to users and limit potential attack surface. We'll also be showing video of an unreleased tool to the public utilized by surveillance teams.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>Eric Michaud</name>
+        <role></role>
+    </actor>
+        <actor>
+        <name>Ryan Lackey</name>
+        <role></role>
+    </actor>
+    </episodedetails>
