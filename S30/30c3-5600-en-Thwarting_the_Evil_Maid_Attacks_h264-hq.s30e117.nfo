@@ -14,11 +14,11 @@ Physically Unclonable Functions, combined with a trusted mobile device and a net
     </plot>
     <genre>Talk</genre>
     <tag>Security & Safety</tag>
-        <actor>
+    <actor>
         <name>Eric Michaud</name>
         <role></role>
     </actor>
-        <actor>
+    <actor>
         <name>Ryan Lackey</name>
         <role></role>
     </actor>

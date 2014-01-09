@@ -18,7 +18,7 @@ Exploit this backdoor to get a root shell in the linux operating system.
     </plot>
     <genre>Talk</genre>
     <tag>Hardware & Making</tag>
-        <actor>
+    <actor>
         <name>byterazor</name>
         <role></role>
     </actor>

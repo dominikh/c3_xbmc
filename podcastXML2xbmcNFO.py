@@ -44,7 +44,7 @@ def createNFO(episode, id_num, talk, season, num_digit=2):
     """ % (season, episode, talk.title, talk.subtitle, 1983 + season, id_num, talk.description, talk.category)
 
     for speaker in talk.speakers:
-        xml_file += r"""    <actor>
+        xml_file += r"""<actor>
         <name>%s</name>
         <role></role>
     </actor>
