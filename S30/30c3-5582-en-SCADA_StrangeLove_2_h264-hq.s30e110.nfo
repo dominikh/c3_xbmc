@@ -14,11 +14,11 @@ Speakers: Gleb Gritsai and Sergey Gordeychik
     </plot>
     <genre>Talk</genre>
     <tag>Security & Safety</tag>
-        <actor>
+    <actor>
         <name>repdet</name>
         <role></role>
     </actor>
-        <actor>
+    <actor>
         <name>sgordey</name>
         <role></role>
     </actor>
