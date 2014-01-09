@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>42</episode>
+    <title>HbbTV Security</title>
+    <outline>OMG - my Smart TV got pr0wn3d</outline>
+    <year>2013</year>
+    <id>5398</id>
+    <plot>
+        HbbTV (Hybrid broadband broadcast TV) is an emerging standard that is implemented in a growing number of smart TV devices. The idea is to bundle broadcast media content with online content which can be retrieved by the TV set through an Internet connection.
+
+Mechanisms that allow the online content to be accessed by the TV set can be attacked and might put the TV user’s privacy at stake. The presentation highlights possible attack vectors of HbbTV-capable TV sets and introduces possible mitigations.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>Martin Herfurt</name>
+        <role></role>
+    </actor>
+    </episodedetails>

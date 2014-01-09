@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>37</episode>
+    <title>Toward a Cognitive "Quantified Self" </title>
+    <outline>Activity Recognition for the Mind</outline>
+    <year>2013</year>
+    <id>5387</id>
+    <plot>
+        The talk gives an overview about our work of quantifying knowledge acquisition tasks in real-life environments, focusing on reading. We combine several pervasive sensing approaches (computer vision, motion-based activity recognition etc.) to tackle the problem of recognizing and classifying knowledge acquisition tasks with a special focus on reading. We discuss which sensing modalities can be used for digital and offline reading recognition, as well as how to combine them dynamically.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Science & Engineering</tag>
+        <actor>
+        <name>Kai</name>
+        <role></role>
+    </actor>
+    </episodedetails>

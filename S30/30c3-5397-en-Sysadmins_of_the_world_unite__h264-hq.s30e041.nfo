@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>41</episode>
+    <title>Sysadmins of the world, unite!</title>
+    <outline>a call to resistance</outline>
+    <year>2013</year>
+    <id>5397</id>
+    <plot>
+        <p>Finally, the world is aware of the threat of mass surveillance and control, but we still have a fight on our hands, and that fight is both technical and political. Global democracy is not going to protect itself. There has never been a higher demand for a politically-engaged hackerdom. Jacob Appelbaum and Julian Assange discuss what needs to be done if we are going to win.</p>
+    </plot>
+    <genre>Talk</genre>
+    <tag>Ethics, Society & Politics</tag>
+        <actor>
+        <name>Julian Assange</name>
+        <role></role>
+    </actor>
+        <actor>
+        <name>Jacob</name>
+        <role></role>
+    </actor>
+    </episodedetails>

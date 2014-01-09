@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>31</episode>
+    <title>Firmware Fat Camp</title>
+    <outline>Embedded Security Using Binary Autotomy</outline>
+    <year>2013</year>
+    <id>5356</id>
+    <plot>
+        We present a collection of techniques which aim to automagically remove significant (and unnecessary) portions of firmware binaries from common embedded devices to drastically reduce the attack surface of these devices. We present a brief theoretical explanation of Firmware Fat Camp, a collection of "before" and "after" photos of graduates of FFC, along with a set of live demonstrations of FFC in action on common embedded devices.
+
+Modern embedded systems such as VoIP phones, network printers and routers typically ship with all available features compiled into its firmware image. A small subset of these features is activated at any given time on individual devices based on its specific configuration. An even smaller subset of features is actually used, as some unused and insecure features cannot are typically enabled by default and cannot be disabled. However, all embedded devices still contain a large amount of code and data that should never be executed or read according to its current configuration. This unnecessary binary is not simply a waste of memory; it contains vulnerable code and data that can be used by an attacker to exploit the system. This “dead code” provides an ideal attack surface. Automated minimization of this attack surface will significantly improve the security of the device without any impact to the device’s functionality.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>angcui</name>
+        <role></role>
+    </actor>
+    </episodedetails>

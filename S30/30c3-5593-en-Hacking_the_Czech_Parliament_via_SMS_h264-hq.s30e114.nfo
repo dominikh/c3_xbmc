@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>114</episode>
+    <title>Hacking the Czech Parliament via SMS</title>
+    <outline>A parliamentary drama of 223 actors</outline>
+    <year>2013</year>
+    <id>5593</id>
+    <plot>
+        The Czech art collective Ztohoven' project “Moral Reform” was accomplished in collaboration with web security experts. Together they created the unique art concept of a mobile phone mass-hack.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Ethics, Society & Politics</tag>
+        <actor>
+        <name>Ztohoven</name>
+        <role></role>
+    </actor>
+    </episodedetails>

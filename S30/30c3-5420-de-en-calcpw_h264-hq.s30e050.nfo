@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>50</episode>
+    <title>calc.pw</title>
+    <outline>Passwortgenerierung mit Arduino  [Generating passwords with Arduino]</outline>
+    <year>2013</year>
+    <id>5420</id>
+    <plot>
+        Bei calc.pw handelt es sich um DIY Hardware, mit deren Hilfe man Passwörter aus einem Masterpasswort und einfach merkbaren Informationen (z. B. "ebay", "amazon", etc.) generieren kann. Im Vortrag soll es um die Probleme vorhandener Passwortverfahren (Passwortschemen, Passwortdatenbanken) gehen. Es soll die Theorie hinter der Passwortberechnung erläutert und eine praktische Implementierung dieser Berechnung vorgestellt werden.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Hardware & Making</tag>
+        <actor>
+        <name>Kenneth Newwood</name>
+        <role></role>
+    </actor>
+    </episodedetails>

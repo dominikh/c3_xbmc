@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>65</episode>
+    <title>Security of the IC Backside</title>
+    <outline>The future of IC analysis</outline>
+    <year>2013</year>
+    <id>5459</id>
+    <plot>
+        In the chain of trust of most secure schemes is an electronic chip that holds secret information. These schemes often employ cryptographically secure protocols. The weakest link of such a scheme is the chip itself. By attacking the chip directly an attacker can gain access to the secret data in its unencrypted form. In this presentation we demonstrate the attack class of the future, backside attacks. This class of attacks mitigate all device countermeasures and can access all signals of the device. As opposed to the attacks of today, these attacks can also be applied to complex systems such as the ARM SoCs of modern smartphones.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>nedos</name>
+        <role></role>
+    </actor>
+    </episodedetails>

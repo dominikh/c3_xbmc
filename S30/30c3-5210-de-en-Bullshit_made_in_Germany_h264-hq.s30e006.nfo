@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>6</episode>
+    <title>Bullshit made in Germany</title>
+    <outline>So hosten Sie Ihre De-Mail, E-Mail und Cloud direkt beim BND!</outline>
+    <year>2013</year>
+    <id>5210</id>
+    <plot>
+        Die technischen Probleme der De-Mail ließen sich juristisch lösen, und auch bei der E-Mail setzen deutsche Provider bald Sicherheitsstandards der Neunziger Jahre um. Auch für "die Cloud" hat das BSI einen feinen Standard parat – natürlich ohne Verschlüsselung. Wofür bräuchten wir die auch im Schlandnet?
+    </plot>
+    <genre>Talk</genre>
+    <tag>Ethics, Society & Politics</tag>
+        <actor>
+        <name>Linus Neumann</name>
+        <role></role>
+    </actor>
+    </episodedetails>

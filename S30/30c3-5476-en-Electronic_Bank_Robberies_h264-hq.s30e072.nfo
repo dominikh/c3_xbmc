@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>72</episode>
+    <title>Electronic Bank Robberies</title>
+    <outline>Stealing Money from ATMs with Malware</outline>
+    <year>2013</year>
+    <id>5476</id>
+    <plot>
+        This talk will discuss a case in which criminals compromised and robbed an ATM by infecting it with specially crafted malware. The successful compromise of an ATM can easily result in the loss of several hundred thousand dollars.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>tw</name>
+        <role></role>
+    </actor>
+        <actor>
+        <name>sb</name>
+        <role></role>
+    </actor>
+    </episodedetails>

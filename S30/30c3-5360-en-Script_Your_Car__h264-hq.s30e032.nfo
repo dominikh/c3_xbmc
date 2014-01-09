@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>32</episode>
+    <title>Script Your Car!</title>
+    <outline>Using existing hardware platforms to integrate python into your dashboard</outline>
+    <year>2013</year>
+    <id>5360</id>
+    <plot>
+        Almost all higher-end cars come with very beefy in-car entertainment hardware. In this talk, I'll describe how to take advantage of an existing hands-free kit to connect your car to the internet and script your dashboard in python.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Hardware & Making</tag>
+        <actor>
+        <name>Felix "tmbinc" Domke</name>
+        <role></role>
+    </actor>
+    </episodedetails>

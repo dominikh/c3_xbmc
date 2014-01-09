@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>63</episode>
+    <title>Mobile network attack evolution</title>
+    <outline>None</outline>
+    <year>2013</year>
+    <id>5449</id>
+    <plot>
+        Mobile networks should protect users on several fronts: Calls need to be encrypted, customer data protected, and SIM cards shielded from malware.
+
+Many networks are still reluctant to implement appropriate protection measures in legacy systems. But even those who add mitigations often fail to fully capture attacks: They target symptoms instead of solving the core issue.
+
+This talks discusses mobile network and SIM card attacks that circumvent common protection techniques to illustrate the ongoing mobile attack evolution.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>Karsten Nohl</name>
+        <role></role>
+    </actor>
+        <actor>
+        <name>Luca Melette</name>
+        <role></role>
+    </actor>
+    </episodedetails>

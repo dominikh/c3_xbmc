@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>113</episode>
+    <title>White-Box Cryptography</title>
+    <outline>Survey</outline>
+    <year>2013</year>
+    <id>5590</id>
+    <plot>
+        The goal of white-box cryptography is to protect cryptographic keys in a public implementation of encryption algorithms, primarily in the context of Pay-TV and tamper-resistant software. I present an overview of the white-box cryptography concept along with the most common applications and proposed designs. I discuss the subtle difference between white-box cryptography, public-key cryptography, and obfuscation.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>Dmitry Khovratovich</name>
+        <role></role>
+    </actor>
+    </episodedetails>

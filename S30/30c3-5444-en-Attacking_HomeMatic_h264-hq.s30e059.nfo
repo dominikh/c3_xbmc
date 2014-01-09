@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>59</episode>
+    <title>Attacking HomeMatic</title>
+    <outline>None</outline>
+    <year>2013</year>
+    <id>5444</id>
+    <plot>
+        HomeMatic is a good working, inexpensive and quickly spreading home automation system supporting wired as well as (partly AES handshake protected) wireless communication. The first part of our talk deals with security issues of HomeMatic devices and their wireless communication protocol called BidCoS (Bidirectional Communication Standard). In the second part we introduce Homegear, our own interface software to control HomeMatic devices.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Security & Safety</tag>
+        <actor>
+        <name>sathya</name>
+        <role></role>
+    </actor>
+        <actor>
+        <name>Malli</name>
+        <role></role>
+    </actor>
+    </episodedetails>

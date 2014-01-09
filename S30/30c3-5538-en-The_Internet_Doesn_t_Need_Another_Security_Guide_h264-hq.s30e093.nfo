@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>93</episode>
+    <title>The Internet (Doesn't) Need Another Security Guide</title>
+    <outline>Creating Internet Privacy and Security Resources That Don't Suck</outline>
+    <year>2013</year>
+    <id>5538</id>
+    <plot>
+        As Internet privacy/security professionals and amateur enthusiasts, we are often asked to give advice about best practices in this field. Sometimes this takes the form of one-on-one advice to our friends, sometimes it's training a room full of people, and sometimes you may be asked to write a blog post or a brief guide or an entire curriculum. This talk will survey the current Internet privacy guide landscape and discuss the perils and pitfalls of creating this type of resource, using the Electronic Frontier Foundation's Surveillance Self Defense project as a case study.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Science & Engineering</tag>
+        <actor>
+        <name>evacide</name>
+        <role></role>
+    </actor>
+    </episodedetails>

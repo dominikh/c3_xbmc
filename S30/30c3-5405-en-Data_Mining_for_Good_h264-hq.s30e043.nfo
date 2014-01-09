@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+    <showtitle>Chaos Communication Congress</showtitle>
+    <season>30</season>
+    <episode>43</episode>
+    <title>Data Mining for Good</title>
+    <outline>Using random sampling, entity resolution, communications metadata, and statistical modeling to assist prosecutions for disappearance and genocide in Guatemala</outline>
+    <year>2013</year>
+    <id>5405</id>
+    <plot>
+        For over thirty years, human rights groups in Guatemala have carefully documented the killing and disappearance of many people in the early 1980s. There are tens of thousands of records in many databases, and over 80 million paper pages of police records available in the Archives of the National Police. Most of the prosecutions of the former military and police officials who committed the atrocities depends on eyewitnesses, specific documents, and forensic anthropologists' examination of exhumed bones. However, data analysis helps to see the big patterns in the violence.
+    </plot>
+    <genre>Talk</genre>
+    <tag>Ethics, Society & Politics</tag>
+        <actor>
+        <name>Patrick</name>
+        <role></role>
+    </actor>
+    </episodedetails>
