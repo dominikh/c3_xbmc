@@ -1,4 +1,12 @@
 #! /bin/sh
+
+# Handle special cases
+mv '30c3-5380-en-de-Persistent_Stealthy_Remote-controlled_Dedicated_Hardware_Malware_h264-iprod.mp4' '30c3-5380-en-de-Persistent_Stealthy_Remote-controlled_Dedicated_Hardware_Malware_h264-hq.s30e036.mp4'
+mv '30c3-5394-BREACH_in_Agda_h264-iprod.mp4' '30c3-5394-BREACH_in_Agda_h264-hq.s30e039.mp4'
+mv '30c3-5532-de-en-Die_Drohnenkriege_h264-iprod.mp4' '30c3-5532-de-en-Die_Drohnenkriege_h264-hq.s30e089.mp4'
+mv '30c3-5538-en-The_Internet_Doesn_t_Need_Another_Security_Guide_h264-iprod.mp4' '30c3-5538-en-The_Internet_Doesn_t_Need_Another_Security_Guide_h264-hq.s30e093.mp4'
+
+# Do all the remaining ones
 mv '30c3-5142-en-Monitoring_the_Spectrum_Building_Your_Own_Distributed_RF_Scanner_Array_h264-hq.mp4' '30c3-5142-en-Monitoring_the_Spectrum_Building_Your_Own_Distributed_RF_Scanner_Array_h264-hq.s30e001.mp4'
 mv '30c3-5185-en-FPGA_101_h264-hq.mp4' '30c3-5185-en-FPGA_101_h264-hq.s30e002.mp4'
 mv '30c3-5186-en-Programming_FPGAs_with_PSHDL_h264-hq.mp4' '30c3-5186-en-Programming_FPGAs_with_PSHDL_h264-hq.s30e003.mp4'
@@ -34,10 +42,8 @@ mv '30c3-5360-en-Script_Your_Car__h264-hq.mp4' '30c3-5360-en-Script_Your_Car__h2
 mv '30c3-5361-en-Disclosure_DOs_Disclosure_DON_Ts_h264-hq.mp4' '30c3-5361-en-Disclosure_DOs_Disclosure_DON_Ts_h264-hq.s30e033.mp4'
 mv '30c3-5376-en-Do_You_Think_That_s_Funny__h264-hq.mp4' '30c3-5376-en-Do_You_Think_That_s_Funny__h264-hq.s30e034.mp4'
 mv '30c3-5377-de-en-UEberwachen_und_Sprache_h264-hq.mp4' '30c3-5377-de-en-UEberwachen_und_Sprache_h264-hq.s30e035.mp4'
-mv '30c3-5380-en-de-Persistent_Stealthy_Remote-controlled_Dedicated_Hardware_Malware_h264-hq.mp4' '30c3-5380-en-de-Persistent_Stealthy_Remote-controlled_Dedicated_Hardware_Malware_h264-hq.s30e036.mp4'
 mv '30c3-5387-en-Toward_a_Cognitive_Quantified_Self__h264-hq.mp4' '30c3-5387-en-Toward_a_Cognitive_Quantified_Self__h264-hq.s30e037.mp4'
 mv '30c3-5391-en-de-Y_U_NO_ISP_taking_back_the_Net_h264-hq.mp4' '30c3-5391-en-de-Y_U_NO_ISP_taking_back_the_Net_h264-hq.s30e038.mp4'
-mv '30c3-5394-BREACH_in_Agda_h264-hq.mp4' '30c3-5394-BREACH_in_Agda_h264-hq.s30e039.mp4'
 mv '30c3-5395-en-Towards_an_affordable_brain-computer-interface_h264-hq.mp4' '30c3-5395-en-Towards_an_affordable_brain-computer-interface_h264-hq.s30e040.mp4'
 mv '30c3-5397-en-Sysadmins_of_the_world_unite__h264-hq.mp4' '30c3-5397-en-Sysadmins_of_the_world_unite__h264-hq.s30e041.mp4'
 mv '30c3-5398-en-HbbTV_Security_h264-hq.mp4' '30c3-5398-en-HbbTV_Security_h264-hq.s30e042.mp4'
@@ -87,11 +93,9 @@ mv '30c3-5509-de-en-IFGINT_h264-hq.mp4' '30c3-5509-de-en-IFGINT_h264-hq.s30e085.
 mv '30c3-5526-en-How_to_Build_a_Mind_h264-hq.mp4' '30c3-5526-en-How_to_Build_a_Mind_h264-hq.s30e086.mp4'
 mv '30c3-5527-en-Basics_of_Digital_Wireless_Communication_h264-hq.mp4' '30c3-5527-en-Basics_of_Digital_Wireless_Communication_h264-hq.s30e087.mp4'
 mv '30c3-5529-en-Hardening_hardware_and_choosing_a_goodBIOS_h264-hq.mp4' '30c3-5529-en-Hardening_hardware_and_choosing_a_goodBIOS_h264-hq.s30e088.mp4'
-mv '30c3-5532-de-en-Die_Drohnenkriege_h264-hq.mp4' '30c3-5532-de-en-Die_Drohnenkriege_h264-hq.s30e089.mp4'
 mv '30c3-5533-en-Fast_Internet-wide_Scanning_and_its_Security_Applications_h264-hq.mp4' '30c3-5533-en-Fast_Internet-wide_Scanning_and_its_Security_Applications_h264-hq.s30e090.mp4'
 mv '30c3-5536-en-Long_Distance_Quantum_Communication_h264-hq.mp4' '30c3-5536-en-Long_Distance_Quantum_Communication_h264-hq.s30e091.mp4'
 mv '30c3-5537-en-Glass_Hacks_h264-hq.mp4' '30c3-5537-en-Glass_Hacks_h264-hq.s30e092.mp4'
-mv '30c3-5538-en-The_Internet_Doesn_t_Need_Another_Security_Guide_h264-hq.mp4' '30c3-5538-en-The_Internet_Doesn_t_Need_Another_Security_Guide_h264-hq.s30e093.mp4'
 mv '30c3-5539-en-Human_Rights_and_Technology_h264-hq.mp4' '30c3-5539-en-Human_Rights_and_Technology_h264-hq.s30e094.mp4'
 mv '30c3-5542-en-Revisiting_Trusting_Trust_for_binary_toolchains_h264-hq.mp4' '30c3-5542-en-Revisiting_Trusting_Trust_for_binary_toolchains_h264-hq.s30e095.mp4'
 mv '30c3-5543-en-de-ID_Cards_in_China_Your_Worst_Nightmare_h264-hq.mp4' '30c3-5543-en-de-ID_Cards_in_China_Your_Worst_Nightmare_h264-hq.s30e096.mp4'
