@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-# This is a quickly hacked script to turn the ccc.media.de's podcast.xml, 
+# This is a quickly hacked script to turn the ccc.media.de's podcast.xml,
 # released for each Chaos Communication Congress, into XBMC *.nfo files.
 #
 # To find these files go to http://media.ccc.de/browse/congress/<INSERT YEAR HERE>/podcast.xml
@@ -8,6 +8,7 @@
 # (c) 2014 by Florian Franzen
 
 # ToDo: Add curl to download xml.
+# ToDo: Scrap 'Fahrplan' info and add it to nfo (e.g. pictures of speaker)
 
 import argparse
 
