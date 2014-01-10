@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>115</episode>
-    <title>Structuring open hardware projects</title>
-    <outline>experiences from the “i3 Berlin” 3D printer project with Blender and Github</outline>
-    <year>2013</year>
-    <id>5594</id>
-    <plot>
-        Every successful open hardware project needs a solid organization structure at some point in time, especially when plan to produce and sell your project. In our “i3 Berlin” 3d printer project, we took some elements of the PLM (Product Lifecycle Management) concept and implemented it with open source tools like Github and Blender.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Hardware & Making</tag>
-    <actor>
-        <name>Bram de Vries</name>
-        <role></role>
-    </actor>
-    <actor>
-        <name>Morris Winkler</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>115</episode>
+        <title>Structuring open hardware projects</title>
+        <outline>experiences from the “i3 Berlin” 3D printer project with Blender and Github</outline>
+        <year>2013</year>
+        <id>5594</id>
+        <plot>
+            Every successful open hardware project needs a solid organization structure at some point in time, especially when plan to produce and sell your project. In our “i3 Berlin” 3d printer project, we took some elements of the PLM (Product Lifecycle Management) concept and implemented it with open source tools like Github and Blender.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>Bram de Vries</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Morris Winkler</name>
+            <role></role>
+        </actor>
     </episodedetails>

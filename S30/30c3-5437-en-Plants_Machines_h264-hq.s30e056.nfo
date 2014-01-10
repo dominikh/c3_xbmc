@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>56</episode>
-    <title>Plants & Machines</title>
-    <outline>Food replicating Robots from Open Source Technologies</outline>
-    <year>2013</year>
-    <id>5437</id>
-    <plot>
-        Did you ever feel the need to be in charge of your environment? We did . A detailed story of our experience playing with 220VAC and water to build an automated, digitally controlled ecosystem. A place, where you can be the climate-change. Double the temperature, triple the floods, let it storm or rain. A Tamagotchi that generates food from electricity. All done with Arduino, raspberry Pi and Node.js.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Hardware & Making</tag>
-    <actor>
-        <name>mrv</name>
-        <role></role>
-    </actor>
-    <actor>
-        <name>bbuegler</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>56</episode>
+        <title>Plants & Machines</title>
+        <outline>Food replicating Robots from Open Source Technologies</outline>
+        <year>2013</year>
+        <id>5437</id>
+        <plot>
+            Did you ever feel the need to be in charge of your environment? We did . A detailed story of our experience playing with 220VAC and water to build an automated, digitally controlled ecosystem. A place, where you can be the climate-change. Double the temperature, triple the floods, let it storm or rain. A Tamagotchi that generates food from electricity. All done with Arduino, raspberry Pi and Node.js.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>mrv</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>bbuegler</name>
+            <role></role>
+        </actor>
     </episodedetails>

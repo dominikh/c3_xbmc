@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>80</episode>
-    <title>Concepts for global TSCM</title>
-    <outline>getting out of surveillance state mode</outline>
-    <year>2013</year>
-    <id>5495</id>
-    <plot>
-        After studying the various levels of activities that come together in BuggedPlanet and realizing the scope and level of implementation of NSA´s SIGINT theatre, it´s propably time to step back, summarize the big picture and ask how we handle it properly.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Ethics, Society & Politics</tag>
-    <actor>
-        <name>andy</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>80</episode>
+        <title>Concepts for global TSCM</title>
+        <outline>getting out of surveillance state mode</outline>
+        <year>2013</year>
+        <id>5495</id>
+        <plot>
+            After studying the various levels of activities that come together in BuggedPlanet and realizing the scope and level of implementation of NSA´s SIGINT theatre, it´s propably time to step back, summarize the big picture and ask how we handle it properly.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Ethics, Society & Politics</tag>
+        <actor>
+            <name>andy</name>
+            <role></role>
+        </actor>
     </episodedetails>

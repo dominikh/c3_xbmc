@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>86</episode>
-    <title>How to Build a Mind</title>
-    <outline>Artificial Intelligence Reloaded</outline>
-    <year>2013</year>
-    <id>5526</id>
-    <plot>
-        A foray into the present, future and ideas of Artificial Intelligence. Are we going to build (beyond) human-level artificial intelligence one day? Very likely. When? Nobody knows, because the specs are not fully done yet. But let me give you some of those we already know, just to get you started.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Science & Engineering</tag>
-    <actor>
-        <name>Joscha</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>86</episode>
+        <title>How to Build a Mind</title>
+        <outline>Artificial Intelligence Reloaded</outline>
+        <year>2013</year>
+        <id>5526</id>
+        <plot>
+            A foray into the present, future and ideas of Artificial Intelligence. Are we going to build (beyond) human-level artificial intelligence one day? Very likely. When? Nobody knows, because the specs are not fully done yet. But let me give you some of those we already know, just to get you started.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Science & Engineering</tag>
+        <actor>
+            <name>Joscha</name>
+            <role></role>
+        </actor>
     </episodedetails>

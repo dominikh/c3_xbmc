@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>94</episode>
-    <title>Human Rights and Technology</title>
-    <outline>"A New Hope" or "The Empire Strikes Back"?</outline>
-    <year>2013</year>
-    <id>5539</id>
-    <plot>
-        This talk aims to shed some light on recent human rights violations in the context of the use of digital information and communications technology, particularly considering the latest disclosures about the surveillance programmes of Western intelligence services. At the same time, it shall provide information about Amnesty International's positions and activities in this field and invite anybody interested in our work to get involved.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Ethics, Society & Politics</tag>
-    <actor>
-        <name>Seb</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>94</episode>
+        <title>Human Rights and Technology</title>
+        <outline>"A New Hope" or "The Empire Strikes Back"?</outline>
+        <year>2013</year>
+        <id>5539</id>
+        <plot>
+            This talk aims to shed some light on recent human rights violations in the context of the use of digital information and communications technology, particularly considering the latest disclosures about the surveillance programmes of Western intelligence services. At the same time, it shall provide information about Amnesty International's positions and activities in this field and invite anybody interested in our work to get involved.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Ethics, Society & Politics</tag>
+        <actor>
+            <name>Seb</name>
+            <role></role>
+        </actor>
     </episodedetails>

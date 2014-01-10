@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>40</episode>
-    <title>Towards an affordable brain-computer-interface</title>
-    <year>2013</year>
-    <id>5395</id>
-    <plot>
-        The brain can be understood as a highly specialized information processing device. Because computers basically do the same thing, it's not too absurd to try to link these two together. The result is a brain-computer-interface.
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>40</episode>
+        <title>Towards an affordable brain-computer-interface</title>
+        <year>2013</year>
+        <id>5395</id>
+        <plot>
+            The brain can be understood as a highly specialized information processing device. Because computers basically do the same thing, it's not too absurd to try to link these two together. The result is a brain-computer-interface.
 This talk explains the core functionality of our brain and how to access the stored data from the outside. Software and hardware have already reached a somewhat hacker-friendly state, and we want to show you how we got there. We're also here to answer all your questions about the brain.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Science & Engineering</tag>
-    <actor>
-        <name>Dominic</name>
-        <role></role>
-    </actor>
-    <actor>
-        <name>Anne</name>
-        <role></role>
-    </actor>
+        </plot>
+        <genre>Talk</genre>
+        <tag>Science & Engineering</tag>
+        <actor>
+            <name>Dominic</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Anne</name>
+            <role></role>
+        </actor>
     </episodedetails>

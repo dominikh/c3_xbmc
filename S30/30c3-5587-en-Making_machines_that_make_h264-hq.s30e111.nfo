@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>111</episode>
-    <title>Making machines that make</title>
-    <outline>rapid prototyping of digital fabrication and instrumentation machines</outline>
-    <year>2013</year>
-    <id>5587</id>
-    <plot>
-        Making a new control system for a machine is often a slow and tedious task. Maybe you already have a 3 axis stage, and you already know how to move it around. But what if you want to add a camera and use it for position feedback? You'd have to redesign the whole hardware layer. I'll talk about some ways I've built modularity into control systems for machines so that you can quickly iterate on different kinds of machine systems without getting stuck in hardware land forever. This includes connecting synchronized nodes across a network and importing legacy nodes for things like, say, an old pressure box you found in the trash and has rs232 in. Down with gcode! Long live machine control.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Hardware & Making</tag>
-    <actor>
-        <name>Nadya Peek</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>111</episode>
+        <title>Making machines that make</title>
+        <outline>rapid prototyping of digital fabrication and instrumentation machines</outline>
+        <year>2013</year>
+        <id>5587</id>
+        <plot>
+            Making a new control system for a machine is often a slow and tedious task. Maybe you already have a 3 axis stage, and you already know how to move it around. But what if you want to add a camera and use it for position feedback? You'd have to redesign the whole hardware layer. I'll talk about some ways I've built modularity into control systems for machines so that you can quickly iterate on different kinds of machine systems without getting stuck in hardware land forever. This includes connecting synchronized nodes across a network and importing legacy nodes for things like, say, an old pressure box you found in the trash and has rs232 in. Down with gcode! Long live machine control.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>Nadya Peek</name>
+            <role></role>
+        </actor>
     </episodedetails>

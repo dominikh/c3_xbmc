@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>26</episode>
-    <title>Reverse engineering the Wii U Gamepad</title>
-    <year>2013</year>
-    <id>5322</id>
-    <plot>
-        A year ago in November 2012, Nintendo released their latest home video game console: the Wii U. While most video game consoles use controllers that are very basic, the Wii U took the opposite route with a very featureful gamepad: wireless with a fairly high range, touch screen, speakers, accelerometer, video camera, and even NFC are supported by the Wii U gamepad. However, as of today, this interesting piece of hardware can only be used in conjunction with a Wii U: wireless communications are encrypted and obfuscated, and there is no documentation about the protocols used for data exchange between the console and its controller. Around december 2012, I started working with two other hackers in order to reverse engineer, document and implement the Wii U gamepad communication protocols on a PC. This talk will present our findings and show the current state of our reverse engineering efforts.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Hardware & Making</tag>
-    <actor>
-        <name>delroth</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>26</episode>
+        <title>Reverse engineering the Wii U Gamepad</title>
+        <year>2013</year>
+        <id>5322</id>
+        <plot>
+            A year ago in November 2012, Nintendo released their latest home video game console: the Wii U. While most video game consoles use controllers that are very basic, the Wii U took the opposite route with a very featureful gamepad: wireless with a fairly high range, touch screen, speakers, accelerometer, video camera, and even NFC are supported by the Wii U gamepad. However, as of today, this interesting piece of hardware can only be used in conjunction with a Wii U: wireless communications are encrypted and obfuscated, and there is no documentation about the protocols used for data exchange between the console and its controller. Around december 2012, I started working with two other hackers in order to reverse engineer, document and implement the Wii U gamepad communication protocols on a PC. This talk will present our findings and show the current state of our reverse engineering efforts.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>delroth</name>
+            <role></role>
+        </actor>
     </episodedetails>

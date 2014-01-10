@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>61</episode>
-    <title>The good, the bad, and the ugly - Linux Kernel patches</title>
-    <year>2013</year>
-    <id>5446</id>
-    <plot>
-        Companies are often blamed for not working upstream. Surprisingly, the situation is not per se better with community projects. To change the latter for the better, Wolfram will show some examples regarding the Linux Kernel and present ideas to create win-win-win situations.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Hardware & Making</tag>
-    <actor>
-        <name>wsa</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>61</episode>
+        <title>The good, the bad, and the ugly - Linux Kernel patches</title>
+        <year>2013</year>
+        <id>5446</id>
+        <plot>
+            Companies are often blamed for not working upstream. Surprisingly, the situation is not per se better with community projects. To change the latter for the better, Wolfram will show some examples regarding the Linux Kernel and present ideas to create win-win-win situations.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>wsa</name>
+            <role></role>
+        </actor>
     </episodedetails>

@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>87</episode>
-    <title>Basics of Digital Wireless Communication</title>
-    <outline>introduction to software radio principles</outline>
-    <year>2013</year>
-    <id>5527</id>
-    <plot>
-        The aim of this talk is to give an understandable insight into wireless communication, using existing systems as examples on why there are different communication systems for different uses.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Hardware & Making</tag>
-    <actor>
-        <name>Clemens Hopfer</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>87</episode>
+        <title>Basics of Digital Wireless Communication</title>
+        <outline>introduction to software radio principles</outline>
+        <year>2013</year>
+        <id>5527</id>
+        <plot>
+            The aim of this talk is to give an understandable insight into wireless communication, using existing systems as examples on why there are different communication systems for different uses.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>Clemens Hopfer</name>
+            <role></role>
+        </actor>
     </episodedetails>

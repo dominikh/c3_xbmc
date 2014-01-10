@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>74</episode>
-    <title>Backdoors, Government Hacking and The Next Crypto Wars</title>
-    <year>2013</year>
-    <id>5478</id>
-    <plot>
-        Law enforcement agencies claim they are "going dark". Encryption technologies have finally been deployed by software companies, and critically, enabled by default, such that emails are flowing over HTTPS, and disk encryption is now frequently used. Friendly telcos, who were once a one-stop-shop for surveillance can no longer meet the needs of our government. What are the FBI and other law enforcement agencies doing to preserve their spying capabilities?
-    </plot>
-    <genre>Talk</genre>
-    <tag>Ethics, Society & Politics</tag>
-    <actor>
-        <name>Christopher Soghoian</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>74</episode>
+        <title>Backdoors, Government Hacking and The Next Crypto Wars</title>
+        <year>2013</year>
+        <id>5478</id>
+        <plot>
+            Law enforcement agencies claim they are "going dark". Encryption technologies have finally been deployed by software companies, and critically, enabled by default, such that emails are flowing over HTTPS, and disk encryption is now frequently used. Friendly telcos, who were once a one-stop-shop for surveillance can no longer meet the needs of our government. What are the FBI and other law enforcement agencies doing to preserve their spying capabilities?
+        </plot>
+        <genre>Talk</genre>
+        <tag>Ethics, Society & Politics</tag>
+        <actor>
+            <name>Christopher Soghoian</name>
+            <role></role>
+        </actor>
     </episodedetails>
