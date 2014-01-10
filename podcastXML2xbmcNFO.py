@@ -91,7 +91,7 @@ while num_talks != 0:
     num_talks //= 10
 
 # For each talk...
-rename_file = "#! /bin/sh\n"
+rename_file = "#!/bin/sh\n"
 episode = 1
 for id_num in sorted(all_talks):
     talk = all_talks[id_num]
