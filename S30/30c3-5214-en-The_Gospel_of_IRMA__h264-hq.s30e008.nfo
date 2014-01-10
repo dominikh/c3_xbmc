@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>8</episode>
-    <title>The Gospel of IRMA </title>
-    <outline>Attribute Based Credentials in Practice</outline>
-    <year>2013</year>
-    <id>5214</id>
-    <plot>
-        Attribute Based Credentials (ABC) allow users to prove certain properties about themselves (e.g. age, race, license, etc.) without revealing their full identity. ABC are therefore important to protect the privacy of the user. The IRMA (I Reveal My Attributes) project of the Radboud University Nijmegen has created the first full and efficient implementation of this technology on smart cards. This allows ABC technology to be used in practice both on the Internet as well as in the physical world. We will discuss ABCs in general, the IRMA system, it's advantages and pitfalls, and future work.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Security & Safety</tag>
-    <actor>
-        <name>Jaap-Henk Hoepman</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>8</episode>
+        <title>The Gospel of IRMA </title>
+        <outline>Attribute Based Credentials in Practice</outline>
+        <year>2013</year>
+        <id>5214</id>
+        <plot>
+            Attribute Based Credentials (ABC) allow users to prove certain properties about themselves (e.g. age, race, license, etc.) without revealing their full identity. ABC are therefore important to protect the privacy of the user. The IRMA (I Reveal My Attributes) project of the Radboud University Nijmegen has created the first full and efficient implementation of this technology on smart cards. This allows ABC technology to be used in practice both on the Internet as well as in the physical world. We will discuss ABCs in general, the IRMA system, it's advantages and pitfalls, and future work.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>Jaap-Henk Hoepman</name>
+            <role></role>
+        </actor>
     </episodedetails>

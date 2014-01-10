@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>77</episode>
-    <title>Fnord News Show</title>
-    <outline>Der schonungslose Realitätsabgleich mit Birzarrometer-Rekalibrierung [The harsh reality check and recalibration of the bizarre-o-meter]</outline>
-    <year>2013</year>
-    <id>5490</id>
-    <plot>
-        Im Format einer lockeren Abendshow werden wir die Highlights des Jahres präsentieren, die Meldungen zwischen den Meldungen, die subtilen Sensationen hinter den Schlagzeilen. Kommen Sie, hören Sie, sehen Sie! Lassen Sie sich mitreißen!
-    </plot>
-    <genre>Talk</genre>
-    <tag>Entertainment</tag>
-    <actor>
-        <name>frank</name>
-        <role></role>
-    </actor>
-    <actor>
-        <name>Fefe</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>77</episode>
+        <title>Fnord News Show</title>
+        <outline>Der schonungslose Realitätsabgleich mit Birzarrometer-Rekalibrierung [The harsh reality check and recalibration of the bizarre-o-meter]</outline>
+        <year>2013</year>
+        <id>5490</id>
+        <plot>
+            Im Format einer lockeren Abendshow werden wir die Highlights des Jahres präsentieren, die Meldungen zwischen den Meldungen, die subtilen Sensationen hinter den Schlagzeilen. Kommen Sie, hören Sie, sehen Sie! Lassen Sie sich mitreißen!
+        </plot>
+        <genre>Talk</genre>
+        <tag>Entertainment</tag>
+        <actor>
+            <name>frank</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Fefe</name>
+            <role></role>
+        </actor>
     </episodedetails>

@@ -1,22 +1,22 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>54</episode>
-    <title>Das FlipDot-Projekt</title>
-    <outline>Spaß mit mechanischer Anzeige</outline>
-    <year>2013</year>
-    <id>5426</id>
-    <plot>
-        Inbetriebnahme alter Flip-Dot-Anzeigemodule eines
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>54</episode>
+        <title>Das FlipDot-Projekt</title>
+        <outline>Spaß mit mechanischer Anzeige</outline>
+        <year>2013</year>
+        <id>5426</id>
+        <plot>
+            Inbetriebnahme alter Flip-Dot-Anzeigemodule eines
 Autobahn-Parkleitsystems zu einer interaktiven Anzeige. Reverse
 Engineering des Protokolls und Entwicklung einer Steuerplatine auf
 Basis des Raspberry Pi.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Hardware & Making</tag>
-    <actor>
-        <name>RFguy</name>
-        <role></role>
-    </actor>
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>RFguy</name>
+            <role></role>
+        </actor>
     </episodedetails>

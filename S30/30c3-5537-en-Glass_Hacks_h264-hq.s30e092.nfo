@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>92</episode>
-    <title>Glass Hacks</title>
-    <outline>Fun and frightening uses of always-on camera enabled wearable computers</outline>
-    <year>2013</year>
-    <id>5537</id>
-    <plot>
-        A one hour technical lecture that covers everything from machine learning and AI to hardware design and manufacture. Includes demonstrations of applications enabled by an always-on image capturing wearable computer. You'll leave with a clear understanding of the field's status quo, how we got here, and insight into what's around the corner.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Science & Engineering</tag>
-    <actor>
-        <name>Stephen Balaban</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>92</episode>
+        <title>Glass Hacks</title>
+        <outline>Fun and frightening uses of always-on camera enabled wearable computers</outline>
+        <year>2013</year>
+        <id>5537</id>
+        <plot>
+            A one hour technical lecture that covers everything from machine learning and AI to hardware design and manufacture. Includes demonstrations of applications enabled by an always-on image capturing wearable computer. You'll leave with a clear understanding of the field's status quo, how we got here, and insight into what's around the corner.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Science & Engineering</tag>
+        <actor>
+            <name>Stephen Balaban</name>
+            <role></role>
+        </actor>
     </episodedetails>

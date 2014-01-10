@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>103</episode>
-    <title>Magic Lantern</title>
-    <outline>Free Software on Your Camera</outline>
-    <year>2013</year>
-    <id>5554</id>
-    <plot>
-        We present Magic Lantern, a free open software add-on for Canon DSLR cameras, that offers increased functionality aimed mainly at DSLR pro and power users. It runs alongside Canon's own firmware and introduces to consumer-grade DSLRs features usually only found in professional high-end digital (cinema) cameras.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Hardware & Making</tag>
-    <actor>
-        <name>Michael Zöller</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>103</episode>
+        <title>Magic Lantern</title>
+        <outline>Free Software on Your Camera</outline>
+        <year>2013</year>
+        <id>5554</id>
+        <plot>
+            We present Magic Lantern, a free open software add-on for Canon DSLR cameras, that offers increased functionality aimed mainly at DSLR pro and power users. It runs alongside Canon's own firmware and introduces to consumer-grade DSLRs features usually only found in professional high-end digital (cinema) cameras.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>Michael Zöller</name>
+            <role></role>
+        </actor>
     </episodedetails>

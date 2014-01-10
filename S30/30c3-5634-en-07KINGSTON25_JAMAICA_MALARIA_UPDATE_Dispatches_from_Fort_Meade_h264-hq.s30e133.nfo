@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>133</episode>
-    <title>07KINGSTON25 JAMAICA: MALARIA UPDATE Dispatches from Fort Meade</title>
-    <outline>Reporting on the secret trial of Chelsea Manning</outline>
-    <year>2013</year>
-    <id>5634</id>
-    <plot>
-        At Fort George "Orwell" Meade, home of the NSA and the US Defense Information School, managing the message of Chelsea Manning's trial was facilitated by a lack of public access to most of the court filings and rulings until 18 months into her legal proceeding.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Ethics, Society & Politics</tag>
-    <actor>
-        <name>Alexa O'Brien</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>133</episode>
+        <title>07KINGSTON25 JAMAICA: MALARIA UPDATE Dispatches from Fort Meade</title>
+        <outline>Reporting on the secret trial of Chelsea Manning</outline>
+        <year>2013</year>
+        <id>5634</id>
+        <plot>
+            At Fort George "Orwell" Meade, home of the NSA and the US Defense Information School, managing the message of Chelsea Manning's trial was facilitated by a lack of public access to most of the court filings and rulings until 18 months into her legal proceeding.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Ethics, Society & Politics</tag>
+        <actor>
+            <name>Alexa O'Brien</name>
+            <role></role>
+        </actor>
     </episodedetails>

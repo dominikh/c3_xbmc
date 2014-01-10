@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>89</episode>
-    <title>Die Drohnenkriege</title>
-    <outline>Kriegsführung der Zukunft?</outline>
-    <year>2013</year>
-    <id>5532</id>
-    <plot>
-        Die Drohnenkriege sind Ausdruck einer rasanten Entwicklung: vom „Krieg gegen den Terror“ nach 9/11 zur Kriegsführung der Zukunft. Einer Zukunft, die gelegentlich der Science Fiction der späten Achtziger zu entstammen scheint, in der Roboter die schmutzigen Kriege der Menschen kämpfen und sich schließlich gegen ihre Schöpfer erheben. Letzteres liegt noch längst nicht im Bereich des Möglichen, aber Wege zur Erschaffung autonomer Kampfroboter werden bereits beschritten. Der Vortrag will das Phänomen des Drohnenkrieges politisch einordnen und einen Ausblick versuchen.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Ethics, Society & Politics</tag>
-    <actor>
-        <name>Norbert Schepers</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>89</episode>
+        <title>Die Drohnenkriege</title>
+        <outline>Kriegsführung der Zukunft?</outline>
+        <year>2013</year>
+        <id>5532</id>
+        <plot>
+            Die Drohnenkriege sind Ausdruck einer rasanten Entwicklung: vom „Krieg gegen den Terror“ nach 9/11 zur Kriegsführung der Zukunft. Einer Zukunft, die gelegentlich der Science Fiction der späten Achtziger zu entstammen scheint, in der Roboter die schmutzigen Kriege der Menschen kämpfen und sich schließlich gegen ihre Schöpfer erheben. Letzteres liegt noch längst nicht im Bereich des Möglichen, aber Wege zur Erschaffung autonomer Kampfroboter werden bereits beschritten. Der Vortrag will das Phänomen des Drohnenkrieges politisch einordnen und einen Ausblick versuchen.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Ethics, Society & Politics</tag>
+        <actor>
+            <name>Norbert Schepers</name>
+            <role></role>
+        </actor>
     </episodedetails>

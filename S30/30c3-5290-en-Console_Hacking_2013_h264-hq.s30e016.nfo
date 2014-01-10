@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>16</episode>
-    <title>Console Hacking 2013</title>
-    <outline>WiiU</outline>
-    <year>2013</year>
-    <id>5290</id>
-    <plot>
-        About a year ago Nintendo released their latest video gaming console, the Wii U. Since 2006, the Wii has led to one of the most active homebrew scenes after its security system was completely bypassed. This talk will discuss the improvements made in Wii U's architecture and explain how it was broken in less than 31 days. The talk is targeted at those who hack (or design) embedded system security, but gamers might also find it interesting.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Security & Safety</tag>
-    <actor>
-        <name>sven</name>
-        <role></role>
-    </actor>
-    <actor>
-        <name>marcan</name>
-        <role></role>
-    </actor>
-    <actor>
-        <name>Nicholas Allegra (comex)</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>16</episode>
+        <title>Console Hacking 2013</title>
+        <outline>WiiU</outline>
+        <year>2013</year>
+        <id>5290</id>
+        <plot>
+            About a year ago Nintendo released their latest video gaming console, the Wii U. Since 2006, the Wii has led to one of the most active homebrew scenes after its security system was completely bypassed. This talk will discuss the improvements made in Wii U's architecture and explain how it was broken in less than 31 days. The talk is targeted at those who hack (or design) embedded system security, but gamers might also find it interesting.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>sven</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>marcan</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Nicholas Allegra (comex)</name>
+            <role></role>
+        </actor>
     </episodedetails>

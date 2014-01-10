@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
     <episodedetails>
-    <showtitle>Chaos Communication Congress</showtitle>
-    <season>30</season>
-    <episode>116</episode>
-    <title>The ArduGuitar</title>
-    <outline>An Ardunio Powered Electric Guitar</outline>
-    <year>2013</year>
-    <id>5595</id>
-    <plot>
-        The <a href="http://www.arduguitar.org">ArduGuitar</a> is an electric guitar with <i>no physical controls,</i> i.e. no buttons or knobs to adjust volume, tone or to select the pickups. All of these functions are performed remotely via a bluetooth device such as an Android phone, or via a dedicated Arduino powered blutetooth footpedal. The musician still plucks the strings, of course! This talk will give an overview of the technology and particularly the voyage that took me from nearly no knowledge about anything electronic to enough know-how to make it all work.I will explain what I learned by collaborating on forums, with Hackerspaces and with component providers: "How to ask the right questions." The guitar with its Arduino powered circuit and an Android tablet will be available for demo; the code is all available on the github <a href="https://github.com/gratefulfrog/ArduGuitar">arduguitar repo</a> with the associated <a href="https://github.com/gratefulfrog/lib">Arduino footpedal libraries</a>.
-    </plot>
-    <genre>Talk</genre>
-    <tag>Hardware & Making</tag>
-    <actor>
-        <name>gratefulfrog</name>
-        <role></role>
-    </actor>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>116</episode>
+        <title>The ArduGuitar</title>
+        <outline>An Ardunio Powered Electric Guitar</outline>
+        <year>2013</year>
+        <id>5595</id>
+        <plot>
+            The <a href="http://www.arduguitar.org">ArduGuitar</a> is an electric guitar with <i>no physical controls,</i> i.e. no buttons or knobs to adjust volume, tone or to select the pickups. All of these functions are performed remotely via a bluetooth device such as an Android phone, or via a dedicated Arduino powered blutetooth footpedal. The musician still plucks the strings, of course! This talk will give an overview of the technology and particularly the voyage that took me from nearly no knowledge about anything electronic to enough know-how to make it all work.I will explain what I learned by collaborating on forums, with Hackerspaces and with component providers: "How to ask the right questions." The guitar with its Arduino powered circuit and an Android tablet will be available for demo; the code is all available on the github <a href="https://github.com/gratefulfrog/ArduGuitar">arduguitar repo</a> with the associated <a href="https://github.com/gratefulfrog/lib">Arduino footpedal libraries</a>.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>gratefulfrog</name>
+            <role></role>
+        </actor>
     </episodedetails>
