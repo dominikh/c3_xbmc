@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>82</episode>
+        <title>Our daily job: hacking the law</title>
+        <outline>The key elements of policy hacking</outline>
+        <year>2012</year>
+        <id>5395</id>
+        <plot>
+            Legal systems have a huge impact on what we do as hackers, but also on internet users in general. Laws can restrict our freedom to use the internet in ways we deem to be natural and it can impede the tools which we hackers use on a daily basis. Which is not to say that laws cannot also protect our freedom and ensure that all bits are treated equally. Most importantly, these laws can be hacked and tweaked to fit our needs - like most things in this world.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Ot van Daalen</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Rejo Zenger</name>
+            <role></role>
+        </actor>
+    </episodedetails>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>24</episode>
+        <title>Setting mobile phones free</title>
+        <outline>An overview of a mobile telephony market and how a community-driven operator is born</outline>
+        <year>2012</year>
+        <id>5167</id>
+        <plot>
+            In The Netherlands, this year the community-driven mobile telco Limesco has started operations. We're providing voice, SMS and data services to dozens of hackers in our country.
+
+One of the founders of Limesco will give a lecture about mobile telephony in The Netherlands, encompassing topics like what companies are involved in the system, how tariffs are constructed and the role of government regulations.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Mark van Cuijk</name>
+            <role></role>
+        </actor>
+    </episodedetails>

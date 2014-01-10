@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>7</episode>
+        <title>Many Tamagotchis Were Harmed in the Making of this Presentation</title>
+        <year>2012</year>
+        <id>5088</id>
+        <plot>
+            You might remember Tamagotchi virtual pets from the 1990's. These toys are still around and just as demanding as ever! This talk covers my attempts to hack the latest Tamagotchis. Starting with the IR interface, and moving down into the hardware, this presentation will discuss techniques for reverse engineering a device with limited inputs, computing power and debugging capabilities.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Natalie Silvanovich</name>
+            <role></role>
+        </actor>
+    </episodedetails>

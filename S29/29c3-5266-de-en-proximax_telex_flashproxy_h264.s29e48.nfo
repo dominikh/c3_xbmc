@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>48</episode>
+        <title>Proximax, Telex, Flashproxy oder Tor Bridges</title>
+        <outline>Übersicht über aktuelle Zensurumgehungssoftware</outline>
+        <year>2012</year>
+        <id>5266</id>
+        <plot>
+            Zensur im Internet betrifft immer mehr Nutzer. Wir kennen Tools wie Proxies, VPNs oder Tor Bridges. Doch welche weiteren Werkzeuge unterstützen die Nutzer vor Ort? Wo sind die Stärken und Schwächen? Der Vortrag stellt einige von diesen vor und zeigt die Stärken und Schwächen.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Jens Kubieziel</name>
+            <role></role>
+        </actor>
+    </episodedetails>

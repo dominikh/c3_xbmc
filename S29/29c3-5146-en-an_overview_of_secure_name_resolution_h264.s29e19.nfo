@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>19</episode>
+        <title>An Overview of Secure Name Resolution</title>
+        <outline>DNSSEC, DNSCurve and Namecoin</outline>
+        <year>2012</year>
+        <id>5146</id>
+        <plot>
+            There's about 100 top-level domains signed with DNSSEC and .nl recently hit 1M second-level domains. At this occasion, we take a look at the goods and the bads of DNSSEC deployment, including amplification attacks, Zensursula-like DNS redirects, China DNS injection and NASA key rollover mistakes. We will find out what DNSCurve and Namecoin promise to make better and what Zooko's triangle has all to do with this.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Matthäus Wander</name>
+            <role></role>
+        </actor>
+    </episodedetails>

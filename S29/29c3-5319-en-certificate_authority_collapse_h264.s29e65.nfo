@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>65</episode>
+        <title>Certificate Authority Collapse</title>
+        <outline>Will the EU Succeed in Regulating HTTPS? </outline>
+        <year>2012</year>
+        <id>5319</id>
+        <plot>
+            Hypertext Transfer Protocol Secure (HTTPS) has evolved into the de facto standard for secure web browsing. But in the security community, it has long been known that HTTPS is fundamentally broken, and this has been confirmed by alarming hacks and security breaches at several Certificate Authorities (CAs). To tackle the global collapse of trust in these central mediators of HTTPS communications and to augment HTTPS security, the EU has launched a proposal for strict regulation. Will these efforts succeed?
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>axelarnbak</name>
+            <role></role>
+        </actor>
+    </episodedetails>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>61</episode>
+        <title>The Tor software ecosystem</title>
+        <year>2012</year>
+        <id>5306</id>
+        <plot>
+            At the very beginning, Tor was just a socks proxy that protected the origin and/or destination of your TCP flows. Now the broader Tor ecosystem includes a diverse set of projects -- browser extensions to patch Firefox and Thunderbird's privacy issues, Tor controller libraries to let you interface with the Tor client in your favorite language, network scanners to measure relay performance and look for misbehaving exit relays, LiveCDs, support for the way Android applications expect Tor to behave, full-network simulators and testing frameworks, plugins to make Tor's traffic look like Skype or other protocols, and metrics and measurement tools to keep track of how well everything's working. Many of these tools aim to be useful beyond Tor: making them modular means they're reusable for other anonymity and security projects as well.
+ 
+In this talk, Roger and Jake will walk you through all the tools that make up the Tor software world, and give you a better understanding of which ones need love and how you can help.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Jacob Appelbaum</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Roger Dingledine</name>
+            <role></role>
+        </actor>
+    </episodedetails>

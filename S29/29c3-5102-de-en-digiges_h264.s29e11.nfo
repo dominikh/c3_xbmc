@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>11</episode>
+        <title>Netzaktivisten! Ist das alles, was wir drauf haben?</title>
+        <outline>Eine subjektive Bestandsaufnahme</outline>
+        <year>2012</year>
+        <id>5102</id>
+        <plot>
+            In den letzten Jahren haben sich die netzpolitischen Kräfteverhältnisse auf interessante Weise verschoben. Neue Allianzen bilden sich sowohl gegen als auch für das freie Internet – und dennoch bleibt der Aktivismus weit hinter seinem Potential zurück.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Linus Neumann</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Markus Beckedahl</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Ulf Buermeyer</name>
+            <role></role>
+        </actor>
+    </episodedetails>

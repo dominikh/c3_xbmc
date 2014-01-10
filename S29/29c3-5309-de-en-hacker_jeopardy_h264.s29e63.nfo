@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>63</episode>
+        <title>Hacker Jeopardy</title>
+        <outline>Zahlenraten für Geeks</outline>
+        <year>2012</year>
+        <id>5309</id>
+        <plot>
+            
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Ray</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Stefan 'Sec' Zehl</name>
+            <role></role>
+        </actor>
+    </episodedetails>

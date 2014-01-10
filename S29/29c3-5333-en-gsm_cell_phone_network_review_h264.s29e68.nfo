@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>68</episode>
+        <title>29C3 GSM: Cell phone network review</title>
+        <outline>262 42 - The full spectrum</outline>
+        <year>2012</year>
+        <id>5333</id>
+        <plot>
+            Did you notice 262 42 in your mobile phone network search list at the last CCC events? Did you and your friends buy SIM cards at the PoC and help test the network by calling each other, or by calling through the bridge to the DECT network services? Did you ever wonder about the details of this open source test network, set up by a team of volunteers in the middle of the city? We would like to tell you all the details of the cell phone network we operate at 29C3, and show you some fancy graphs based on the network activity!
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Peter Stuge</name>
+            <role></role>
+        </actor>
+    </episodedetails>

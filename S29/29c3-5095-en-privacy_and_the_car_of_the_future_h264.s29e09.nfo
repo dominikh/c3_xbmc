@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>9</episode>
+        <title>Privacy and the Car of the Future</title>
+        <outline>Considerations for the Connected Vehicle</outline>
+        <year>2012</year>
+        <id>5095</id>
+        <plot>
+            To date, remote vehicle communications have provided little in the way of privacy. Much information and misinformation has been spread on what the system is and can do, especially within the information security community. The recent field trial in the US of a connected vehicle infrastructure raises the level of concern amongst all who are aware of existing privacy issues.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Christie Dudley</name>
+            <role></role>
+        </actor>
+    </episodedetails>

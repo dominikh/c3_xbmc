@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>3</episode>
+        <title>Time is NOT on your Side</title>
+        <outline>Mitigating Timing Side Channels on the Web</outline>
+        <year>2012</year>
+        <id>5044</id>
+        <plot>
+            In this year’s talk, I tie on my 28c3 talk and present timing side channels from a defending viewpoint: How can one mitigate timing side channels? Aren’t random delays sufficient to prevent timing side channels in practice? What is the minimum size of random delays to be effective? Are there other delay strategies besides random delays that are more effective and efficient?
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Sebastian Schinzel</name>
+            <role></role>
+        </actor>
+    </episodedetails>

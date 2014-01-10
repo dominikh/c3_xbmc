@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>15</episode>
+        <title>Low-Cost Chip Microprobing</title>
+        <year>2012</year>
+        <id>5124</id>
+        <plot>
+            Security is moving deeper into hardware and so should security research. This talks introduces microprobing, an old technique for snooping on data inside chips, and details a low-cost probing setup.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>dexter</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Karsten Nohl</name>
+            <role></role>
+        </actor>
+    </episodedetails>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>60</episode>
+        <title>Long live the protocoletariat!</title>
+        <year>2012</year>
+        <id>5305</id>
+        <plot>
+            We're winning!  The future looks like network politics!
+
+Wait, what the hell are network politics and how do they work?  Is that like the Pirate Party, or the IETF, or Anonymous?
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Eleanor Saitta</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Smári McCarthy</name>
+            <role></role>
+        </actor>
+    </episodedetails>

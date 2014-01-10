@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>51</episode>
+        <title>FactHacks</title>
+        <outline>RSA factorization in the real world</outline>
+        <year>2012</year>
+        <id>5275</id>
+        <plot>
+            RSA is the dominant public-key cryptosystem on the Internet. This talk will explain the state of the art in techniques for the attacker to figure out your secret RSA keys.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>djb</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Nadia Heninger</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Tanja Lange</name>
+            <role></role>
+        </actor>
+    </episodedetails>
