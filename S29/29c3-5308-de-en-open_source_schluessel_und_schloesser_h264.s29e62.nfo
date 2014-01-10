@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>62</episode>
+        <title>Open Source Schlüssel und Schlösser</title>
+        <outline>Offene Quellen zum Bösen und Guten: von downloadbaren Handschellenschlüsseln zu sicheren elektronischen Schlössern</outline>
+        <year>2012</year>
+        <id>5308</id>
+        <plot>
+            Was bedeutet das Zeitalter offener Designs für die Sicherheit von Schlössern? Zum Beispiel solchen, die auf eine geringe Verbreitung eines Schlüssels setzen? Ein Beispiel sind die sogenannten Hochsicherheitsversionen von Polizeihandschellen. Der Talk zeigt was (und wie) sich in diesem Bereich mit Lasercuttern und 3D Druckern erreichen lässt - sowie welche komplexeren Angriffsziele noch warten. Als Ausweg aus der Problematik kopierbarer Schlüssel gelten digitale Schlösser, aber sie kranken anders an offenen Quellen: sie haben keine! Im Rahmen eines Open Source Lock Projektes haben wir uns daher ein reflashbares Vorhängeschloss angesehen, doch noch ehe wir den Programmieradapter angeschlossen hatten fanden wir eine Schwachstelle der Hardware... Leider kein Einzelfall!
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Jan</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>mh</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Ray</name>
+            <role></role>
+        </actor>
+    </episodedetails>

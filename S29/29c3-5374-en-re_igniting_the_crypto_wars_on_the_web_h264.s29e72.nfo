@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>72</episode>
+        <title>Re-igniting the Crypto Wars on the Web</title>
+        <year>2012</year>
+        <id>5374</id>
+        <plot>
+            This talk will give an overview of the ongoing work by the W3C on a controversial general purpose Javascript cryptography API in context of the larger desire to create trusted and encrypted cloud services with rich web applications. Today, cryptography is difficult to use and the Web is an insecure environment at best, but can this situation be improved and cryptography be put in the hands of ordinary developers and users? The W3C specification, currently under development, will be described, as well as its interaction with other parts of the emerging Web Security Model at the W3C and IETF such as Content Security Policy, HTTP Strict Transport Security, and Certificate Transparency. A number of use-cases, ranging from decentralized identity systems to secure cloud services for activists, will be detailed. As the specification will be under active development until autumn 2013, feedback from the hacker community is needed!
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Harry Halpin</name>
+            <role></role>
+        </actor>
+    </episodedetails>

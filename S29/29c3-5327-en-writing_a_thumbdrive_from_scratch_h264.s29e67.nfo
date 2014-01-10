@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>67</episode>
+        <title>Writing a Thumbdrive from Scratch</title>
+        <outline>Prototyping Active Disk Antiforensics</outline>
+        <year>2012</year>
+        <id>5327</id>
+        <plot>
+            This action-packed lecture presents the inner workings of the author's from-scratch implementation of a USB Mass Storage disk in user-land Python, along with some embarrassing bugs in operating systems that support such disks.  The lecture concludes with an introduction to Active Antiforensics, in which a thumbdrive's own firmware can recognize and defend itself against disk imaging and other forensic tools.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Travis Goodspeed</name>
+            <role></role>
+        </actor>
+    </episodedetails>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>18</episode>
+        <title>Safecast: DIY and citizen-sensing of radiation</title>
+        <outline>Empowering citizen in the wake of Fukushima triple-meltdown disaster</outline>
+        <year>2012</year>
+        <id>5140</id>
+        <plot>
+            The triple meltdown of the Fukushima Dai-Ichi nuclear power plant in March last year and the release of radioactive material that has ensued have left a good part of Northern Japan contaminated with unknown amount of radioactivity. An outstanding lack of transparency from both the government and the power utility then resulted in a near total lack of information concerning the levels of radiation in the, yet unknown, contaminated areas. 
+As a response, concerned citizen have started to take upon themselves this challenging task. However it quickly became clear that handheld measurements wouldn't scale up to the full magnitude of the area to cover. New means of measuring radiation accurately, quickly and cheaply were needed.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>sean bonner</name>
+            <role></role>
+        </actor>
+    </episodedetails>

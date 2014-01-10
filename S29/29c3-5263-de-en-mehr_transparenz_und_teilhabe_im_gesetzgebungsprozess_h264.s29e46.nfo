@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>46</episode>
+        <title>chmod o+rw bundestag</title>
+        <outline>Mehr Transparenz und Teilhabe im Gesetzgebungsprozess</outline>
+        <year>2012</year>
+        <id>5263</id>
+        <plot>
+            Wir brauchen ein maschinenlesbares und -schreibbares Gesetzgebungsverfahren, in dem jede Änderung transparent diskutiert und beschlossen wird. Der Bundestag öffnet und digitalisiert sich eher langsam und widerwillig, dennoch kann man schon heute anfangen, die Werkzeuge der parlamentarischen Zukunft in Deutschland zu gestalten und auszuprobieren. Dazu stellen wir die Projekte OffenesParlament.de und das Bundes-Git vor und zeigen, wie es in Zukunft weitergehen könnte.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Friedrich Lindenberg</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Stefan Wehrmeyer</name>
+            <role></role>
+        </actor>
+    </episodedetails>

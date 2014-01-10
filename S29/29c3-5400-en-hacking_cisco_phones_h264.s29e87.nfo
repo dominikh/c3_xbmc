@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>87</episode>
+        <title>Hacking Cisco Phones</title>
+        <outline>Just because you are paranoid doesn't mean your phone isn't listening to everything you say</outline>
+        <year>2012</year>
+        <id>5400</id>
+        <plot>
+            We discuss a set of 0-day kernel vulnerabilities in CNU (Cisco Native
+Unix), the operating system that powers all Cisco TNP IP phones. We
+demonstrate the reliable exploitation of all Cisco TNP phones via
+multiple vulnerabilities found in the CNU kernel. We demonstrate
+practical covert surveillance using constant, stealthy exfiltration of
+microphone data via a number of covert channels. We also demonstrate the
+worm-like propagation of our CNU malware, which can quickly compromise
+all vulnerable Cisco phones on the network. We discuss the feasibility
+of our attacks given physical access, internal network access and remote
+access across the internet. Lastly, we built on last year's presentation
+by discussing the feasibility of exploiting Cisco phones from
+compromised HP printers and vice versa.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Ang Cui</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Michael Costello</name>
+            <role></role>
+        </actor>
+    </episodedetails>

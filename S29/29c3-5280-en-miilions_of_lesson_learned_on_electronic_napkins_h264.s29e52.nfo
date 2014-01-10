@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>52</episode>
+        <title>Millions of Lessons Learned on Electronic Napkins</title>
+        <outline>On the way to free(ing) education</outline>
+        <year>2012</year>
+        <id>5280</id>
+        <plot>
+            Massive open online courses are the vogue of the season when it comes to discussing the future of university-level education. But we’re only starting to see what education at this scope means and how it can be supported best, in terms of both didactics and technology. This talk is an inside report by two instructors who have delved into the experience of teaching large audiences online. We share the lessons that we have learned: how to spark student interest, how to put intuition before formal theories, how to streamline production and much more. And we point out what needs to be done to truly democratize education from the viewpoint of both the students and the instructors.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Jörn Loviscach</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Sebastian Wernicke</name>
+            <role></role>
+        </actor>
+    </episodedetails>

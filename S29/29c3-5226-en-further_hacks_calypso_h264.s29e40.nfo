@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>40</episode>
+        <title>Further hacks on the Calypso platform</title>
+        <outline>or how to turn a phone into a BTS</outline>
+        <year>2012</year>
+        <id>5226</id>
+        <plot>
+            The calypso baseband and its companion chips are used on the Motorola C123 among other and are now well known for being supported by the Osmocom-BB open source GSM baseband implementation. A couple years ago, it was hacked a little further by using it as a raw bits capture device allowing the interception of GSM traffic very cheaply.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Sylvain Munaut</name>
+            <role></role>
+        </actor>
+    </episodedetails>

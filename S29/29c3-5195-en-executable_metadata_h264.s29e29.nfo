@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>29</episode>
+        <title>The Care and Feeding of Weird Machines Found in Executable Metadata</title>
+        <year>2012</year>
+        <id>5195</id>
+        <plot>
+            The Executable and Linkable Format (ELF) is omnipresent; related OS and library code is run whenever processes are set up and serviced (e.g., dynamically linked). The loader is the stage manager for every executable. Hardly anyone appreciates the work that the ELF backstage crew (including the linker and the loader) puts in to make an executable run smoothly.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>bx</name>
+            <role></role>
+        </actor>
+    </episodedetails>

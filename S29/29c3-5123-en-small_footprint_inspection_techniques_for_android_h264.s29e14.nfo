@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>14</episode>
+        <title>Small footprint inspection techniques for Android</title>
+        <outline>Reverse engineering on Android platforms</outline>
+        <year>2012</year>
+        <id>5123</id>
+        <plot>
+            The lecture would address topics related to reverse engineering for mobile platforms, especially from the Android point of view. The main aspects of the presentation is a new approach to reverse engineering side effects problem: some low footprint inspection techniques that grant analysts with the ability to access the program memory without altering its behavior. One technique is presented in particular - Android service injection - and is demonstrated.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Damien Cauquil</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Pierre Jaury</name>
+            <role></role>
+        </actor>
+    </episodedetails>

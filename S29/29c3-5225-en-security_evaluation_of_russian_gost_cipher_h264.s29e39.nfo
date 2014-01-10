@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>39</episode>
+        <title>Security Evaluation of Russian GOST Cipher</title>
+        <outline>Survey of All Known Attacks on Russian Government Encryption Standard</outline>
+        <year>2012</year>
+        <id>5225</id>
+        <plot>
+            In this talk we will survey some 30 recent attacks on the Russian GOST block cipher.
+
+Background: 
+GOST cipher is the official encryption standard of the Russian federation, and also has special versions for the most important Russian banks. 
+Until 2012 there was no attack on GOST when it is used in encryption with random keys. 
+I have developed more than 30 different academic attacks on GOST the fastest has complexity of 2^118 to recover some but not all 256-bit keys generated at random, which will be presented for the first time at CCC conference. 
+It happens only once per decade that a government standard is broken while it is still an official government standard (happened for DES and AES, no other cases known). 
+All these are broken only in academic sense, for GOST most recent attacks are sliding into maybe arguably practical in 30 years from now instead of 200 years... 
+Our earlier results were instrumental at ISO for rejecting GOST as an international encryption standard last year. Not more than 5+ block cihers have ever achieved this level of ISO standardisation in 25 years and it NEVER happended in history of ISO that a cipher got broken during the standardization process. 
+
+Two main papers with 70+30 pages respectively which are http://eprint.iacr.org/2011/626 and http://eprint.iacr.org/2012/138. Two other papers have been already published in Cryptologia journal which specializes in serious military and government crypto. 
+
+The talk will cover three main families of attacks on GOST: high-level transformations, low- level inversion/MITM/guess-then-software/algebraic attacks and advanced truncated differential cryptanalysis of GOST.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Dr Nicolas T. Courtois</name>
+            <role></role>
+        </actor>
+    </episodedetails>

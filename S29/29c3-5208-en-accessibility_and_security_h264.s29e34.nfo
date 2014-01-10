@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>34</episode>
+        <title>What accessibility has to do with security</title>
+        <year>2012</year>
+        <id>5208</id>
+        <plot>
+            Accessibility of digital content is a hugely misunderstood issue. Programmers and content developers tend to view it as a distraction or a special interest concern. Accessibility advocates fail to describe it in terms that would put it in the proper place for other technologists, in particular security practitioners.                                                                            
+We argue that if a format or a document has systemic accessibility problems, then accessibility is likely to be the least of its problems; that accessibility only collapses first, like a canary in a mine, and security is next to follow. We argue that many accessibility problems, just like many security problems, stem from documents being hard to parse or containing executable content, and that the accessibility community is only the first to suffer, due to not having the manpower to make extremely complicated formats to almost work almost always. It's an arms race tougher than the security patching cycle, made worse by there being no common model for what accessibility properties should look like.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Anna Shubina</name>
+            <role></role>
+        </actor>
+    </episodedetails>

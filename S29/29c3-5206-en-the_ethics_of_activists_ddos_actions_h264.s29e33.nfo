@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>33</episode>
+        <title>The Ethics of Activist DDOS Actions</title>
+        <outline>A Historical Analysis</outline>
+        <year>2012</year>
+        <id>5206</id>
+        <plot>
+            In the world of digital activism, distributed denial of service attacks present relatively low barriers to popular participation, have a high potential for attracting large numbers of first-time and repeat participants, and can attract large amounts of media attention.  But though such actions popular, are they ethical? In this talk I will be presenting an ethical framework for the analysis of activist DDOS actions. The framework is grounded in a historical analysis of various activist DDOS actions, such as the IGC attacks in Spain in the late 90s, Electronic Disturbance Theater actions in the early 2000s, and the Anonymous-led Operation Payback attacks in 2010.  Each historical case study presents a unique confluence of technological, political, legal and operational factors allowing for a full spectrum of ethical analysis.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Molly Sauter</name>
+            <role></role>
+        </actor>
+    </episodedetails>

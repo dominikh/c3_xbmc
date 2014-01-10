@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>37</episode>
+        <title>"How I met your pointer"</title>
+        <outline>Hijacking client software for fuzz and profit</outline>
+        <year>2012</year>
+        <id>5219</id>
+        <plot>
+            An approach to the problem of fuzzing proprietary protocols will be shown, focusing on network protocols and native software. In the course of this talk I will combine several methods in order to force the client software to work as a “double agent” against the server.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Carlos Garcia Prado</name>
+            <role></role>
+        </actor>
+    </episodedetails>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>4</episode>
+        <title>SCADA Strangelove</title>
+        <outline>or: How I Learned to Start Worrying and Love Nuclear Plants</outline>
+        <year>2012</year>
+        <id>5059</id>
+        <plot>
+            Modern civilization unconditionally depends on information systems. It is paradoxical but true that ICS/SCADA systems are the most insecure systems in the world. From network to application, SCADA is full of configuration issues and vulnerabilities.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Denis Baranov</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Gleb Gritsai</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Sergey Gordeychik</name>
+            <role></role>
+        </actor>
+    </episodedetails>

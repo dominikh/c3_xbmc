@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>12</episode>
+        <title>ESXi Beast</title>
+        <outline>Exploiting VMWARE ESXi Binary Protocols Using CANAPE</outline>
+        <year>2012</year>
+        <id>5104</id>
+        <plot>
+            This presentation will cover a demonstration of the new version of the Canape protocol analysis tool being released for Ruxcon. During the course of the presentation various attack scenarios against the VMWare ESXi binary protocol will be demonstrated using Canape.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>James Forshaw</name>
+            <role></role>
+        </actor>
+    </episodedetails>

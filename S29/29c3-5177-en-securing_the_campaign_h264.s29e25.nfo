@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>25</episode>
+        <title>Securing the Campaign</title>
+        <outline>Security and the 2012 US Presidential Election</outline>
+        <year>2012</year>
+        <id>5177</id>
+        <plot>
+            This talk will go into some of challenges, solutions, and stories from securing a campaign for the 2012 US presidential election.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Ben Hagen</name>
+            <role></role>
+        </actor>
+    </episodedetails>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>85</episode>
+        <title>Closing Event</title>
+        <year>2012</year>
+        <id>5398</id>
+        <plot>
+            Some facts and stats about Congress, plus stories and legends.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>bios</name>
+            <role></role>
+        </actor>
+    </episodedetails>
