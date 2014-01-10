@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>84</episode>
+        <title>Zwischen supersicherer Verschlüsselung und Klartext liegt nur ein falsches Bit </title>
+        <outline>Ein Streifzug durch die Fehler in der Kryptografie </outline>
+        <year>2013</year>
+        <id>5502</id>
+        <plot>
+            »Lange Schlüssel sind sicherer als kurze.«
+»RSA und/oder AES sind einfach zu implementieren.«
+»Für Zufallszahlen reicht es, java.util.Random zu nehmen.«
+Solche oder ähnliche Aussagen hört man immer mal wieder. Doch was ist da dran? Welche Fehler werden bei der Benutzung und Implementierung von Kryptografie gern gemacht?
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>qbi</name>
+            <role></role>
+        </actor>
+    </episodedetails>

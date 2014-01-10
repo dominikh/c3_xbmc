@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>16</episode>
+        <title>New Human Interfaces for Music</title>
+        <outline>DIY MIDI Controllers</outline>
+        <year>2012</year>
+        <id>5134</id>
+        <plot>
+            Human interface design for musical instruments presents unique challenges and vast new possibilities.  The proliferation of low cost rapid-prototyping tools has put the means of fabricating instruments within reach of the performing musician.  In this talk, I'll go through the design process for my main performance controller (The Mojo), my multiplayer instruments (aka Jamboxes) and my new RoboCaster guitar-controller.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Moldover</name>
+            <role></role>
+        </actor>
+    </episodedetails>

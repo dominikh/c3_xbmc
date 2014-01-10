@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>41</episode>
+        <title>A Rambling Walk Through an EMV Transaction</title>
+        <year>2012</year>
+        <id>5237</id>
+        <plot>
+            With Visa and Mastercard pushing for EMV (http://www.emvco.com, aka “chip and pin”) rollout in the United States, the uptake of contactless payment and the use of mobile NFC wallets, the chipcard security community will soon be getting more eyes to analyze the protocols in use with chip and contactless credit card transactions.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Tim Becker</name>
+            <role></role>
+        </actor>
+    </episodedetails>

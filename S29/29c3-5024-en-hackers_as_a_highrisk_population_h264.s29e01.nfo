@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>1</episode>
+        <title>Hackers As A High-Risk Population</title>
+        <outline>Harm Reduction Methodology</outline>
+        <year>2012</year>
+        <id>5024</id>
+        <plot>
+            Hackers are a high-risk population. This talk will provide hackers with tools to reduce the risk to themselves and their communities using harm reduction methodology.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Violet Blue</name>
+            <role></role>
+        </actor>
+    </episodedetails>

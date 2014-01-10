@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>38</episode>
+        <title>Y U NO ISP, taking back the Net</title>
+        <year>2013</year>
+        <id>5391</id>
+        <plot>
+            Building and running an ISP is not that difficult. It's hard to say how many people are connected to the Internet by such weird structures, but we know that they are more and more each day.
+What is at stake is taking back the control of the Internet infrastructure and showing that a neutral Internet access is natural.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>taziden</name>
+            <role></role>
+        </actor>
+    </episodedetails>

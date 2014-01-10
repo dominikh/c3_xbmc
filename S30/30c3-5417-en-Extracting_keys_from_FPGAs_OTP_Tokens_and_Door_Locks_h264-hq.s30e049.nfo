@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>49</episode>
+        <title>Extracting keys from FPGAs, OTP Tokens and Door Locks</title>
+        <outline>Side-Channel (and other) Attacks in Practice</outline>
+        <year>2013</year>
+        <id>5417</id>
+        <plot>
+            Side-channel analysis (SCA) and related methods exploit physical characteristics of a (cryptographic) implementations to bypass security mechanisms and extract secret keys. Yet, SCA is often considered a purely academic exercise with no impact on real systems. In this talk, we show that this is not the case: Using the example of several wide-spread real-world devices, we demonstrate that even seemingly secure systems can be attacked by means of SCA with limited effort.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>David</name>
+            <role></role>
+        </actor>
+    </episodedetails>

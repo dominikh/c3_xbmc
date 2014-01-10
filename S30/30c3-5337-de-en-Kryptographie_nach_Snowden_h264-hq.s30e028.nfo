@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>28</episode>
+        <title>Kryptographie nach Snowden</title>
+        <outline> Was tun nach der mittelmäßigen Kryptographie-Apokalypse?</outline>
+        <year>2013</year>
+        <id>5337</id>
+        <plot>
+            Die Verwendung von mittelmäßiger Kryptographie scheint gegen Angreifer mit Milliarden-Etat komplett versagt zu haben. Namentlich RC4, MD5 und SHA1 scheinen praxisrelevant brechbar.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>ruedi</name>
+            <role></role>
+        </actor>
+    </episodedetails>

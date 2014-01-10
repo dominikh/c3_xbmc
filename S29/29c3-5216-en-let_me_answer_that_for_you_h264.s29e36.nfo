@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>36</episode>
+        <title>Let Me Answer That for You</title>
+        <outline>adventures in mobile paging</outline>
+        <year>2012</year>
+        <id>5216</id>
+        <plot>
+            In the last years, mobile security and specifically GSM has been attacked in many different ways. It was demonstrated how to sniff and crack traffic, how to impersonate a subscriber by placing a fake call and the general security characteristics of this mobile protocol stack have been evaluated.
+
+In this presentation, we will check out a part of the protocol procedures that hasn't been looked at yet, specifically Mobile Terminated services.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Nico Golde</name>
+            <role></role>
+        </actor>
+    </episodedetails>

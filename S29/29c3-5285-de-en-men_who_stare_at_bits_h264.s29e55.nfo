@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>55</episode>
+        <title>Men who stare at bits</title>
+        <outline>RFID-Studierendenkarten mit Fehlern</outline>
+        <year>2012</year>
+        <id>5285</id>
+        <plot>
+            Unsichere Studierenden- und Mensakarten. Eine wissenschaftliche Auswertung.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>nuit</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Rena Tangens</name>
+            <role></role>
+        </actor>
+    </episodedetails>

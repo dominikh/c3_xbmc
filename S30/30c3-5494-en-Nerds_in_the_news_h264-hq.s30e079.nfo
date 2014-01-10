@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>79</episode>
+        <title>Nerds in the news</title>
+        <outline>Spending a year coding in a newsroom</outline>
+        <year>2013</year>
+        <id>5494</id>
+        <plot>
+            Knight-Mozilla OpenNews sends coders into news organisations on a ten-month fellowship to make new tools for reporting and measuring the news. We believe that to remain relevant, journalism has to smarten up about tech and data. As a global community, we develop tools to datamine public data, news apps to make information accessible, and visualisations to break down complex stories. In my talk, I want to present the lessons about tech that I've learned in a newsroom and the things that still need to be built.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Ethics, Society & Politics</tag>
+        <actor>
+            <name>Friedrich Lindenberg</name>
+            <role></role>
+        </actor>
+    </episodedetails>

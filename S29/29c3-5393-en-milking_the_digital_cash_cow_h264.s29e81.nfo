@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>81</episode>
+        <title>Milking the Digital Cash Cow</title>
+        <outline>Extracting Secret Keys of Contactless Smartcards</outline>
+        <year>2012</year>
+        <id>5393</id>
+        <plot>
+            Contactless smartcards have become widespread for applications such as ticketing, access control, identification and payments. Side-channel analysis (SCA) is a powerful type of passive implementation attack that enables to extract the secret keys of cryptographic devices. At the example of NXP's Mifare DESfire MF3ICD40 smartcards we demonstrate that SCA attacks can be applied to cryptographic RFID devices: By exploiting the electro-magnetic information leakage of the cards, its cryptographic keys are revealed.
+
+We introduce our open-source tools for analyzing contactless smartcards, i.e., an ISO 14443 RFID reader (http://sourceforge.net/projects/reader14443) and the card emulator Chameleon (http://sourceforge.net/projects/chameleon14443). We then present the probably worst realization of a commercial contactless payment system ever and detail on various real-world attacks on this widespread (in Germany) system, e.g., how to 'milk the digital cash cow' by modifying the credit balance and convert zeros and ones into real money. 
+
+The content of the talk is joint work with Ingo von Maurich, David Oswald and Christof Paar.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Timo Kasper</name>
+            <role></role>
+        </actor>
+    </episodedetails>

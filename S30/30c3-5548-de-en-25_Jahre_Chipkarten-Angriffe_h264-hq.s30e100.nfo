@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>100</episode>
+        <title>25 Jahre Chipkarten-Angriffe</title>
+        <outline>Von der Historie zur Zukunft</outline>
+        <year>2013</year>
+        <id>5548</id>
+        <plot>
+            Eine unterhaltsame, spannende und lehrreiche Reise durch 25 Jahre Chipkarten-Angriffe mit tiefen Einblicken in Amateur- und Profi-Hackerlabore, inklusive eines Ausblicks in neueste Methoden und zukünftige Ansätze.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>Peter Laackmann</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Marcus Janke</name>
+            <role></role>
+        </actor>
+    </episodedetails>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>22</episode>
+        <title>Breaking Baryons</title>
+        <outline>On the Awesomeness of Particle Accelerators and Colliders</outline>
+        <year>2013</year>
+        <id>5305</id>
+        <plot>
+            A light-hearted presentation about many aspects of particle accelerators like the LHC and their particle collision experiments. Aimed at technically interested non-scientists and physics buffs alike.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Science & Engineering</tag>
+        <actor>
+            <name>Michael Büker</name>
+            <role></role>
+        </actor>
+    </episodedetails>

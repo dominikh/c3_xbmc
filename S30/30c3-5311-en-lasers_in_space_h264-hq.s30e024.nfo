@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>24</episode>
+        <title>lasers in space</title>
+        <outline>how to prepare complex science experiments for operation in space</outline>
+        <year>2013</year>
+        <id>5311</id>
+        <plot>
+            This talk will give an introduction on how to design optical systems for space applications. As example a high power narrow linewidth laser module will be shown.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Science & Engineering</tag>
+        <actor>
+            <name>anja</name>
+            <role></role>
+        </actor>
+    </episodedetails>

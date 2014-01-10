@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>30</episode>
+        <title>Fnord-Jahresrückblick</title>
+        <outline>Diesmal mit noch mehr Eurozonen-Spaltung!</outline>
+        <year>2012</year>
+        <id>5198</id>
+        <plot>
+            Neues Jahr, neue Fnords :-)
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Felix von Leitner</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Frank Rieger</name>
+            <role></role>
+        </actor>
+    </episodedetails>

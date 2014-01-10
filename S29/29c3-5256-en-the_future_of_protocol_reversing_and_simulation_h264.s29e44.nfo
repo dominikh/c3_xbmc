@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>44</episode>
+        <title>The future of protocol reversing and simulation applied on ZeroAccess botnet</title>
+        <outline>Mapping your enemy Botnet with Netzob</outline>
+        <year>2012</year>
+        <id>5256</id>
+        <plot>
+            Have you ever been staring for nights at binary or hexadecimal data flows extracted from an USB channel? Don't you remember yourself searching for some patterns and similarities in this fuc***g mess of zeros and ones grabbed from a binary configuration file? How long did it take you to find an 16 bits decimal size field last time you reversed an IPC communication protocol?
+Did you know you were not alone and that among them, Rob Savoye (@ FOSDEM-08) and Drew Fisher (@ 28C3) have already reported the main difficulties of the RE operations. Both of them called for the creation of a tool which would help experts in their work.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Frédéric Guihéry</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Georges Bossert</name>
+            <role></role>
+        </actor>
+    </episodedetails>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>2</episode>
+        <title>FPGA 101</title>
+        <outline>Making awesome stuff with FPGAs</outline>
+        <year>2013</year>
+        <id>5185</id>
+        <plot>
+            In this talk I want to show you around in the mysterious world of
+Field Programmable Gate Arrays, or short FPGAs. The aim is to enable you to get a rough understanding on what FPGAs are good at and how they can be used in areas where conventional CPUs and Microcontrollers are failing upon us. FPGAs open up the world of high-speed serial interconnects, nano-second event reactions and hardware fuzzing.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>Karsten Becker</name>
+            <role></role>
+        </actor>
+    </episodedetails>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>91</episode>
+        <title>CVE-2011-3402 Technical Analysis</title>
+        <year>2012</year>
+        <id>5417</id>
+        <plot>
+            CVE-2011-3402 is well known as the Windows Kernel TrueType [Font]
+0-day used in the "Duqu" attack(s). Recently this exploit has begun to
+appear in several crimeware exploit kits... Actually, not merely just the
+exploit, but the *entire* font file used by Duqu, now being harnessed to
+infect a large population with malware.  This talk will mostly be an
+extremely low-level walk-through of the font program within this TrueType
+font, which is used to manipulate the Windows Kernel into executing the
+native x86 shellcode.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Julia Wolf</name>
+            <role></role>
+        </actor>
+    </episodedetails>

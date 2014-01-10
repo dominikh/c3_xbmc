@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>26</episode>
+        <title>The ultimate Galaksija talk</title>
+        <outline>Everything about a Yugoslavian microcomputer halfway between a TRS-80 and a ZX 80</outline>
+        <year>2012</year>
+        <id>5178</id>
+        <plot>
+            Galaksija was to be in Yugoslavia what Commodore and Sinclair were in the west. Whether it succeeded or not, its deceptively simple design can still teach us a lot of interesting tricks on how to make a usable computer and operating system with as few transistors and bits as possible.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Tomaž Šolc</name>
+            <role></role>
+        </actor>
+    </episodedetails>

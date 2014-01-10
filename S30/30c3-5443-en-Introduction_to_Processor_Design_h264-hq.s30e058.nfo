@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>58</episode>
+        <title>Introduction to Processor Design</title>
+        <year>2013</year>
+        <id>5443</id>
+        <plot>
+            This lecture gives an introduction to processor design.
+It is mostly interesting for people new to processor design and does not cover high performance pipelined structures.
+Small knowledge on VHDL programming would be great but is not essential. A very small processor core will described here.
+Demo:
+
+Create a backdoor in the VHDL Code of a processor core.
+Exploit this backdoor to get a root shell in the linux operating system.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>byterazor</name>
+            <role></role>
+        </actor>
+    </episodedetails>

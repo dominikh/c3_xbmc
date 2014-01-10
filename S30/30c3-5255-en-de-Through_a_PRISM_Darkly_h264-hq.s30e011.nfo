@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>11</episode>
+        <title>Through a PRISM, Darkly</title>
+        <outline>Everything we know about NSA spying</outline>
+        <year>2013</year>
+        <id>5255</id>
+        <plot>
+            From Stellar Wind to PRISM, Boundless Informant to EvilOlive, the NSA spying programs are shrouded in secrecy and rubber-stamped by secret opinions from a court that meets in a faraday cage. The Electronic Frontier Foundation's Kurt Opsahl explains the known facts about how the programs operate and the laws and regulations the U.S. government asserts allows the NSA to spy on you.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Ethics, Society & Politics</tag>
+        <actor>
+            <name>Kurt Opsahl</name>
+            <role></role>
+        </actor>
+    </episodedetails>

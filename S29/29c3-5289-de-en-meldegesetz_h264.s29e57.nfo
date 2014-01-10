@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>57</episode>
+        <title>Meldegesetz</title>
+        <outline>Was aus dem 57-Sekunden-Gesetz wurde</outline>
+        <year>2012</year>
+        <id>5289</id>
+        <plot>
+            Meldegesetz und der erfolgreiche Protest dagegen.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Katharina Nocun</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Rena Tangens</name>
+            <role></role>
+        </actor>
+    </episodedetails>

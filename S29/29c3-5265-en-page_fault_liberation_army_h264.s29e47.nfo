@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>47</episode>
+        <title>Page Fault Liberation Army or Gained in Translation</title>
+        <outline>a history of creative x86 virtual memory uses</outline>
+        <year>2012</year>
+        <id>5265</id>
+        <plot>
+            x86 processors contain a surprising amount of built-in memory translation logic, which is driven by various data tables with intricate entry formats, and can produce various kinds of traps and other interesting computational effects. These features are mostly relics of earlier, more civilized times, when Jedi Knights tried to protect the Old Republic OSes with segmentation, supervisor bits, and hardware task support, but were defeated by processor de-optimizations and performance concerns and left unused by both Windows and UNIX systems – and explored only by hackers. For the rest of the world, an x86 PC was a "von Neumann architecture" with most of its strangeness unused.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Julian Bangert</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Sergey Bratus</name>
+            <role></role>
+        </actor>
+    </episodedetails>

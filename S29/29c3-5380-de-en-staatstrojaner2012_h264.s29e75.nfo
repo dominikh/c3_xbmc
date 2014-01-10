@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>75</episode>
+        <title>Trojaner-Blindflug</title>
+        <outline>Spionage-Software von Staats wegen</outline>
+        <year>2012</year>
+        <id>5380</id>
+        <plot>
+            Wir wissen seit ein paar Jahren, dass der Staat technisch in der Lage ist, die Computer einiger seiner Bürger zu infiltrieren. Aber soll er das auch dürfen? Was hat sich in den letzten Monaten beim Staatstrojaner getan?
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Constanze Kurz</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Ulf Buermeyer</name>
+            <role></role>
+        </actor>
+    </episodedetails>

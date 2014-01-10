@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>50</episode>
+        <title>The Grand EU Data Protection Reform </title>
+        <outline>A latest battle report by some key actors from Brussels</outline>
+        <year>2012</year>
+        <id>5274</id>
+        <plot>
+            The current European data protection directive is from 1995, which was when the internet had not hit Brussels' decision-makers yet. Now, 17 years later, it is being completely re-writen. Will it meet the challenges of the age of big data? Will it have any effect on non-EU data hoarders? How will it deal with user-generated consent? What is this strange new "right to be forgotten"? And what about privacy by design?
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Jan Philipp Albrecht</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Katarzyna Szymielewicz</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Kirsten Fiedler</name>
+            <role></role>
+        </actor>
+    </episodedetails>

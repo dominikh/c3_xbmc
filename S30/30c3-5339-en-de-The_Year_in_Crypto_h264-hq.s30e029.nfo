@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>29</episode>
+        <title>The Year in Crypto</title>
+        <year>2013</year>
+        <id>5339</id>
+        <plot>
+            This was a busy year for crypto.
+
+TLS was broken.  And then broken again.
+
+Discrete logs were computed.  And then computed again.
+
+Is the cryptopocalypse nigh?
+
+Has the NSA backdoored everything in sight?
+
+Also, answers to last year's exercises will be given.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>Nadia Heninger</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>djb</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Tanja Lange</name>
+            <role></role>
+        </actor>
+    </episodedetails>

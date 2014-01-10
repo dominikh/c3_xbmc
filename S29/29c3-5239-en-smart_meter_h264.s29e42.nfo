@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>42</episode>
+        <title>SmartMeter</title>
+        <outline>A technological overview of the German roll-out </outline>
+        <year>2012</year>
+        <id>5239</id>
+        <plot>
+            This talk will give an overview on the technology, the laws and the technical guidelines of the smartMeter roll-out in Germany.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>derpeter</name>
+            <role></role>
+        </actor>
+    </episodedetails>

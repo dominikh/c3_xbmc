@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>70</episode>
+        <title>World War II Hackers</title>
+        <outline>Stalin's best men, armed with paper and pen</outline>
+        <year>2013</year>
+        <id>5474</id>
+        <plot>
+            The use of encryption to secure sensitive data from unauthorized eyes is as old as human communication itself. Before the relatively new method of computerized encryption software converting data into a format unintelligible to anyone lacking the necessary key for its decryption, for a long time there was pen and paper and the human brain doing quite a bit of work. Up until the 20th century encryption had to be done literally by hand, to then be transmitted in paper form, via telegraphy or radio. In this context, encryption of data has always been of special importance during times of political conflict and war; subsequently, it saw its major developments during those times in history. This talk will examine and explain common hand encryption methods still employed today using the example of one very successful Soviet espionage group operating in Japan in the 1930s and 1940s: the spy ring centered around Richard Sorge, codenamed “Ramsay”.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Ethics, Society & Politics</tag>
+        <actor>
+            <name>Anja Drephal</name>
+            <role></role>
+        </actor>
+    </episodedetails>

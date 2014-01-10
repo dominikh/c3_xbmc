@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>95</episode>
+        <title>Revisiting "Trusting Trust" for binary toolchains</title>
+        <year>2013</year>
+        <id>5542</id>
+        <plot>
+            Ken Thompson's classic "Reflections on Trusting Trust" examined the impacts of planted build chain bugs, from an example of a compiler Trojan to a hypothetical "well-placed microcode bug". Once theoretical & remote, such scenarios have lately been revealed as a stark reality.
+
+But what if we could have every individual piece of software or firmware in the binary toolchain bug-free, performing just as their programmers intended? Would we be safe from run-away computation if only well-formed inputs to each of the individual tools were allowed? Not so. Potential for malicious computation lurks in a variety of input formats along all steps of the binary runtime process construction and execution. Until the "glue" data of an ABI and the binary toolchains in general is reduced to predictable, statically analyzable power, plenty of room for bug-less Trojans remains.
+
+We will discuss our latest work in constructing Turing-complete computation out of different levels of metadata, present tools to normalize and disambiguate these metadata, and conclude with proposals for criteria to trust binary toolchains beyond "Trusting trust" compilers and planted bugs.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Science & Engineering</tag>
+        <actor>
+            <name>sergeybratus</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Julian Bangert</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>bx</name>
+            <role></role>
+        </actor>
+    </episodedetails>

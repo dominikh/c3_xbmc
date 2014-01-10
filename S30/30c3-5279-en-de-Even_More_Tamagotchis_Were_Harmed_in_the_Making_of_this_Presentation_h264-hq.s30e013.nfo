@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>13</episode>
+        <title>Even More Tamagotchis Were Harmed in the Making of this Presentation</title>
+        <year>2013</year>
+        <id>5279</id>
+        <plot>
+            You might remember Tamagotchi virtual pets from the 1990's. These toys are still around and just as demanding as ever! At 29C3, I talked about my attempts to reverse engineer the latest Tamagotchis, and this presentation covers my progress since then. It includes methods for executing code on and dumping code from a Tamagotchi, an analysis of the Tamagotchi code dump and a demonstration of Tamagotchi development tools that make use of these capabilities.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>Natalie Silvanovich</name>
+            <role></role>
+        </actor>
+    </episodedetails>

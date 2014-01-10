@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>10</episode>
+        <title>Triggering Deep Vulnerabilities Using Symbolic Execution</title>
+        <outline>Deep program analysis without the headache</outline>
+        <year>2013</year>
+        <id>5224</id>
+        <plot>
+            Symbolic Execution (SE) is a powerful way to analyze programs. Instead of using concrete data values SE uses symbolic values to evaluate a large set of parallel program paths at once. A drawback of many systems is that they need source code access and only scale to few lines of code. This talk explains how SE and binary analysis can be used to (i) reverse-engineer components of binary only applications and (ii) construct specific concrete input that triggers a given condition deep inside the application (think of defining an error condition and the SE engine constructs the input to the application that triggers the error).
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>gannimo</name>
+            <role></role>
+        </actor>
+    </episodedetails>

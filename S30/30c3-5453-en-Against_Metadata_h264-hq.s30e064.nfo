@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>64</episode>
+        <title>Against Metadata</title>
+        <outline>Twisting time and space to explore the unknown</outline>
+        <year>2013</year>
+        <id>5453</id>
+        <plot>
+            Using case studies of documentary film, Freedom of Information Law document dumps, soundbanks, and a hacker conference, I will demonstrate experiments and results of several years developing open source tools to reorient the idea of documentary around its documents. This is in opposition to a tendancy towards textual and machine-readable metadata, which unduly constrain our wonder, perception, and ability to navigate ambiguous and unknown material.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Art & Beauty</tag>
+        <actor>
+            <name>Robert M Ochshorn</name>
+            <role></role>
+        </actor>
+    </episodedetails>

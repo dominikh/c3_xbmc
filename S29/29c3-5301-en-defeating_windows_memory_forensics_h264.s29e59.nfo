@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>59</episode>
+        <title>Defeating Windows memory forensics</title>
+        <year>2012</year>
+        <id>5301</id>
+        <plot>
+            Aside from further development of traditional forensic techniques which involve post-mortem hard disk analysis, in the last couple of years the field of computer forensics has been marked by significant development of live forensic techniques and tools.
+
+Memory forensics is composed of two main activities: memory aquisition/capture and analysis. This presentation will give an overview of the memory acquisition and analysis techniques and tools on the Windows operating systems. The main part of the presentation will cover current exploitation techniques and methods for defeating both acquisition and analysis phase of the memory forensics, as well as present a new approach for hiding specific artifacts from forensic tools. Based on the covered exploitation techniques, some suggestions and improvements of the current tools will be given.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Luka Milkovic</name>
+            <role></role>
+        </actor>
+    </episodedetails>

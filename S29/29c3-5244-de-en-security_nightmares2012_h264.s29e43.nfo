@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>43</episode>
+        <title>Security Nightmares</title>
+        <outline>Damit Sie auch morgen schlecht von Ihrem Computer träumen.</outline>
+        <year>2012</year>
+        <id>5244</id>
+        <plot>
+            Was hat sich im letzten Jahr im Bereich IT-Sicherheit getan? Welche neuen Entwicklungen haben sich ergeben? Welche neuen Buzzwords und Trends waren zu sehen?
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Frank Rieger</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Ron</name>
+            <role></role>
+        </actor>
+    </episodedetails>

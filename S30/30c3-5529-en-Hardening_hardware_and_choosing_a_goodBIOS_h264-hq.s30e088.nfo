@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>88</episode>
+        <title>Hardening hardware and choosing a #goodBIOS</title>
+        <outline>Clean boot every boot -  rejecting persistence of malicious software and tripping up the evil maid</outline>
+        <year>2013</year>
+        <id>5529</id>
+        <plot>
+            A commodity laptop is analyzed to identify exposed attack surfaces and is then secured on both the hardware and the firmware level against permanent modifications by malicious software as well as quick drive-by hardware attacks by evil maids, ensuring that the machine always powers up to a known good state and significantly raising the bar for an attacker who wants to use the machine against its owner.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>Peter Stuge</name>
+            <role></role>
+        </actor>
+    </episodedetails>

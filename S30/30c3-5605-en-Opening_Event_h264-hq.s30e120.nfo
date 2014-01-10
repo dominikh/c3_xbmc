@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>120</episode>
+        <title>Opening Event</title>
+        <outline>Welcome to the 30th Chaos Communication Congress</outline>
+        <year>2013</year>
+        <id>5605</id>
+        <plot>
+            Introductory event to say hello to everybody, give a brief overview of the event's features and look into history and future alike
+        </plot>
+        <genre>Talk</genre>
+        <tag>CCC</tag>
+        <actor>
+            <name>Tim Pritlove</name>
+            <role></role>
+        </actor>
+    </episodedetails>

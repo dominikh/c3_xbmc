@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>20</episode>
+        <title>Hash-flooding DoS reloaded: attacks and defenses</title>
+        <year>2012</year>
+        <id>5152</id>
+        <plot>
+            At 28C3, Klink and Waelde showed that a number of technologies (PHP, ASP.NET,
+Ruby, Java, Python, etc.) were vulnerable to the decade-old hash-flooding DoS
+attacks. The vulnerability was then often fixed by adopting stronger hash
+functions and "randomizing" them.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>djb</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Jean-Philippe Aumasson</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Martin Boßlet</name>
+            <role></role>
+        </actor>
+    </episodedetails>

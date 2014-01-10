@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>17</episode>
+        <title>Romantic Hackers</title>
+        <outline>Keats, Wordsworth and Total Surveillance</outline>
+        <year>2012</year>
+        <id>5138</id>
+        <plot>
+            In 1791, the political reformer Jeremy Bentham theorized the Panopticon, whose design promised to allow a single Inspector to surveil (exercise "inspective force" over) large numbers of criminals or workers. In recent years, the advent of a suitable technical apparatus – CCTV, ISP taps (network traffic interception), data banks, and so on – has extended the proposed 30m circumference of Bentham’s structure to, and beyond, the physical boundaries of entire countries. While total surveillance is often perceived as a feature of modernity, its conceptual and epistemological framework is rooted in the Romantic period, moreover at a key juncture in the history of ideas concerning individual subjectivity, rights and freedoms. David Barnard-Wills refers to inspective culture as a "nexus of surveillance, identity and language" (2012). In this talk, we examine this nexus in the historical period that first, and so powerfully, imagined the fully surveilled world.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Anne Marggraf-Turley & Prof. Richard Marggraf-Turley</name>
+            <role></role>
+        </actor>
+    </episodedetails>

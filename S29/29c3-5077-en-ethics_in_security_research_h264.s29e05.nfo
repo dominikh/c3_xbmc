@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>5</episode>
+        <title>Ethics in Security Research</title>
+        <year>2012</year>
+        <id>5077</id>
+        <plot>
+            Recently, several research papers in the area of computer security were published that may or may not be considered unethical. Looking at these borderline cases is relevant as today’s research papers will influence how young researchers conduct their research. In our talk we address various cases and papers and highlight emerging issues for ethic committees, internal review boards (IRBs) and senior researchers to evaluate research proposals and to finally decide where they see a line that should not be crossed.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Sebastian Schrittwieser</name>
+            <role></role>
+        </actor>
+    </episodedetails>

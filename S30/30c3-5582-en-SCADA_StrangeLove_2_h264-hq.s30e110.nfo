@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>110</episode>
+        <title>SCADA StrangeLove 2</title>
+        <outline>We already know</outline>
+        <year>2013</year>
+        <id>5582</id>
+        <plot>
+            SCADA StrangeLove team will present their research on ICS systems for the second time on CCC. Last year we showed current situation with security of industrial world and disclosed a big number of vulnerabilities found in Siemens ICS solutions. Part of vulnerabilities, we can say most notable one, wasn’t disclosed due to Responsible Disclosure. This time we already know. We will speak about several industrial protocols and their weaknesses. During this year we played with new industrial hardware and software – this patitially brings new “We don’t know yet” vulnerability details. Moreover, we’ll mention creepiest bugs undisclosed from last year, tell you about new ones and build attack vectors from them. At last, we will share our experience in pentesting ICS enviroments.
+
+Speakers: Gleb Gritsai and Sergey Gordeychik
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>repdet</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>sgordey</name>
+            <role></role>
+        </actor>
+    </episodedetails>

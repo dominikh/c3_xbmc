@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>53</episode>
+        <title>Meine Kleidung funkt</title>
+        <outline>Tracking von Menschen durch in Kleidung integrierte RFID-Chips</outline>
+        <year>2012</year>
+        <id>5282</id>
+        <plot>
+            Mit RFID-Lesegeräten Menschen tracken - keine Zukunftsvision.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>padeluun</name>
+            <role></role>
+        </actor>
+        <actor>
+            <name>Rena Tangens</name>
+            <role></role>
+        </actor>
+    </episodedetails>

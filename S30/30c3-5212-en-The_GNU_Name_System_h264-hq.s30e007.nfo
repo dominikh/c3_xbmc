@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>7</episode>
+        <title>The GNU Name System</title>
+        <outline>A Decentralized PKI For Social Movements</outline>
+        <year>2013</year>
+        <id>5212</id>
+        <plot>
+            DNS, DNSSEC and the X.509 CA system leak private information about users to server operators and fail to provide adequate security against modern adversaries.  The fully decentralized GNU Name System provides a privacy-enhancing and censorship-resistant alternative.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Security & Safety</tag>
+        <actor>
+            <name>grothoff</name>
+            <role></role>
+        </actor>
+    </episodedetails>

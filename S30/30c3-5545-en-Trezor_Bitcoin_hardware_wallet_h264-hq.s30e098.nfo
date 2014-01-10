@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>30</season>
+        <episode>98</episode>
+        <title>Trezor: Bitcoin hardware wallet</title>
+        <year>2013</year>
+        <id>5545</id>
+        <plot>
+            TREZOR is a hardware wallet for Bitcoin. We identified security of the end users' computer as one of the main problems that block Bitcoin mass adoption.
+        </plot>
+        <genre>Talk</genre>
+        <tag>Hardware & Making</tag>
+        <actor>
+            <name>Pavol "stick" Rusnak</name>
+            <role></role>
+        </actor>
+    </episodedetails>

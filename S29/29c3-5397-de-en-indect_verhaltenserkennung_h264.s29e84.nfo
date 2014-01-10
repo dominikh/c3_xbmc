@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>84</episode>
+        <title>INDECT, Verhaltenserkennung & Co</title>
+        <outline>automatisierte staatliche Verdächtigung</outline>
+        <year>2012</year>
+        <id>5397</id>
+        <plot>
+            INFECT: "Bei der Forschung an unserem neuen Killervirus hat unsere Ethikkommission penibelst darauf geachtet, dass niemand der Forscher sich ansteckt."
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Ben</name>
+            <role></role>
+        </actor>
+    </episodedetails>

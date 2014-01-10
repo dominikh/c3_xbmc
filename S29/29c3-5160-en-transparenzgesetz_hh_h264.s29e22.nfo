@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+    <episodedetails>
+        <showtitle>Chaos Communication Congress</showtitle>
+        <season>29</season>
+        <episode>22</episode>
+        <title>We are all lawmakers!</title>
+        <outline>How to further transparency by law – the Hamburg example and beyond</outline>
+        <year>2012</year>
+        <id>5160</id>
+        <plot>
+            In the Free City of Hamburg, which is one of 16 German states, a coalition of hackers, activists and other players of civil society have drafted the most revolutionary Freedom of information law in the world. 
+The law obliges the state to proactively publish all important public information (such as contracts, studies, construction permits) in an OpenData format on the Internet. After the start of a referendum campaign, the law was passed unanimously by the state parliament in June 2012 to avoid a public vote on it.
+        </plot>
+        <genre>Talk</genre>
+        <tag>29c3</tag>
+        <actor>
+            <name>Gregor Hackmack</name>
+            <role></role>
+        </actor>
+    </episodedetails>
